@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Animes Games (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            },
+            "videos": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
+            }
+        }
+    }
+]

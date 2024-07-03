@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Animes Digital (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/video/a/138917/",
+                                "title": "Yoroi Shin Den Samurai Troopers II Parte 2",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Yoroi-Shin-Den-Samurai-Troopers-II-Parte-2Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138916/",
+                                "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tarenagasu",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/06/assistir-mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tarenagasu-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138914/",
+                                "title": "Kimi ga Shinu made Koi wo Shitai",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Kimi-ga-Shinu-made-Koi-wo-ShitaiEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138913/",
+                                "title": "Tai Ari Deshita Ojоu-sama wa Kakutоou Game Nante Shinai",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Tai-Ari-Deshita-Ojоu-sama-wa-Kakutоou-Game-Nante-ShinaiEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138912/",
+                                "title": "Liar Game",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Liar-GameEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138911/",
+                                "title": "Grand Blue III",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Grand-Blue-IIIEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138910/",
+                                "title": "Tenkou-saki no Seiso Karen na Bishoujo",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Tenkou-saki-no-Seiso-Karen-na-BishoujoEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138909/",
+                                "title": "Buchigire Reijou wa Houfuku wo Chikaimashita",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Buchigire-Reijou-wa-Houfuku-wo-ChikaimashitaEp.jpeg"
+                            },
+                            {
+                                "url": "/video/a/138908/",
+                                "title": "Toumei na Yoru ni Kakeru Kimi to Me ni Mienai Koi wo Shita",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Toumei-na-Yoru-ni-Kakeru-Kimi-to-Me-ni-Mienai-Koi-wo-ShitaEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138907/",
+                                "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Saikyou-Degarashi-Ouji-no-Anyaku-Teii-ArasoiEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138906/",
+                                "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138905/",
+                                "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-nijuuseiki-denki-mokuroku-eureka-evrika-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138904/",
+                                "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-azur-lane-bisoku-zenshin-ni-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138903/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/04/assistir-one-piece-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138902/",
+                                "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Futsutsuka-na-Akujo-dewa-Gozaimasu-ga.jpg"
+                            },
+                            {
+                                "url": "/video/a/138901/",
+                                "title": "Sayonara Lara",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-sayonara-lara-todos-os-episodios-online-animes-online.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/anime/a/yoroi-shin-den-samurai-troopers-ii-parte-2-todos-episodios",
+                    "title": "Yoroi Shin Den Samurai Troopers II Parte 2",
+                    "artist": "Sunrise",
+                    "description": "Yoroi Shin Den Samurai Troopers II Parte 2 Um livro de 300 anos é descoberto, narrando as aventuras dos lendários Samurais… séculos antes de acontecerem! Mas o que isso significa? Seriam os Samurais meros fantoches em uma peça cósmica, representando papéis? Quem é essa misteriosa Suzunagi, uma garota enigmática que seduz cada um dos guerreiros com o desejo de seus corações: salvação, novas armaduras, liberdade de uma vida de lutas? Por que ela se interessa tanto pelos Samurais e suas armaduras?",
+                    "genre": "Ação, Ficção Científica",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]

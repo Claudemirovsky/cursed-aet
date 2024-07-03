@@ -1,0 +1,57 @@
+[
+    {
+        "name": "AniDong (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/world-of-immortals/",
+                                "title": "World of Immortals",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/a015f99385779c948084c7902a9a9f6a.jpg"
+                            },
+                            {
+                                "url": "/anime/perfect-world-theater-edition/",
+                                "title": "Perfect World Theater Edition",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/4aaac0f8d0e3885221aa59c04c712fd6.jpg"
+                            },
+                            {
+                                "url": "/anime/otherworldly-evil-monarch/",
+                                "title": "Otherworldly Evil Monarch",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/96c2739c28866fa5622284630735ca45.jpg"
+                            },
+                            {
+                                "url": "/anime/perfect-world/",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/4hOKHBLtLz796HIlJgivIZdBthE.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]
