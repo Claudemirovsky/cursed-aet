@@ -1,0 +1,323 @@
+[
+    {
+        "name": "Pi Fansubs (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/lovers-gangsters/",
+                                "title": "Lovers & Gangsters",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/e37puAig7GwRAugzblfsvDWP7O7.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/my-rival-and-me/",
+                                "title": "My Rival and Me",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/k9IttZgEAl4SViMBgZFAtPSMXj3.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-chemistry/",
+                                "title": "The Chemistry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wq3DXY0ALSHEFdwxwIIrrY1I5Lv.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/long-term-relationship/",
+                                "title": "Long-Term Relationship",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1xgVGS55ss736lZwYHf7RZqP5uL.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/tamed/",
+                                "title": "Tamed",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s9sz8XoB3k7O4KPf6N7IjJgrqex.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-sound-of-sugar-cubes/",
+                                "title": "The Sound of Sugar Cubes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9BjupD1YuUnCnzAhWoIsYPJtH8n.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-on-hire/",
+                                "title": "Love on Hire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/Auqxi0KTtob5DakAmickB8vvJ8P.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/seoul-trip/",
+                                "title": "Seoul Trip",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/enC0hkmDwBQIT0cz2V0vyIvKQwT.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/you-should-be-the-one-to-come-kiss-me/",
+                                "title": "You Should Be The One To Come Kiss Me",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4siIBx4ABani1YzmvEAl0NKENgd.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/all-the-things-i-leave-you/",
+                                "title": "All the Things I Leave You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j2CR9WdhOpBJHHTcSVOktZ5Twhj.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/you-maniac-1x10/",
+                                "title": "You Maniac: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dMrUXp0bFW4rvwXpuh58Vd8D0YW.jpg"
+                            },
+                            {
+                                "url": "/episodios/police-in-love-1x9/",
+                                "title": "Police in Love: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bWQVoQaq6194gMPSz8ALuHC3EM.jpg"
+                            },
+                            {
+                                "url": "/episodios/police-in-love-1x8/",
+                                "title": "Police in Love: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bWQVoQaq6194gMPSz8ALuHC3EM.jpg"
+                            },
+                            {
+                                "url": "/episodios/echo-of-a-letter-1x8/",
+                                "title": "Echo of a Letter: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5K1VONj6vUbxMuA13JN7L2mRX1p.jpg"
+                            },
+                            {
+                                "url": "/episodios/echo-of-a-letter-1x7/",
+                                "title": "Echo of a Letter: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5K1VONj6vUbxMuA13JN7L2mRX1p.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-crow-club-1x7/",
+                                "title": "The Crow Club: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5orhIVz0jI1rblfZTcxAppLxlI0.jpg"
+                            },
+                            {
+                                "url": "/episodios/oops-mysterious-sounds-1x7/",
+                                "title": "Oops! Mysterious Sounds: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/d2K8LT8KZdV3S6TNS7t2t6UsJSt.jpg"
+                            },
+                            {
+                                "url": "/episodios/lovers-gangsters-1x1/",
+                                "title": "Lovers & Gangsters: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1uavbkQjzKOacmisfZkoNkByck6.jpg"
+                            },
+                            {
+                                "url": "/episodios/my-rival-and-me-1x4/",
+                                "title": "My Rival and Me: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kBuSJildpZeM8naGQ1fNMidDRMz.jpg"
+                            },
+                            {
+                                "url": "/episodios/my-rival-and-me-1x3/",
+                                "title": "My Rival and Me: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kBuSJildpZeM8naGQ1fNMidDRMz.jpg"
+                            },
+                            {
+                                "url": "/episodios/my-rival-and-me-1x2/",
+                                "title": "My Rival and Me: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kBuSJildpZeM8naGQ1fNMidDRMz.jpg"
+                            },
+                            {
+                                "url": "/episodios/my-rival-and-me-1x1/",
+                                "title": "My Rival and Me: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kBuSJildpZeM8naGQ1fNMidDRMz.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-chemistry-1x1/",
+                                "title": "The Chemistry: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qhW8os5prZcTxhKSnLG49v1lJYZ.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-sound-of-sugar-cubes-1x4/",
+                                "title": "The Sound of Sugar Cubes: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9vUUd4FCWfYh7wCtZlNSPILMuA1.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-sound-of-sugar-cubes-1x3/",
+                                "title": "The Sound of Sugar Cubes: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9vUUd4FCWfYh7wCtZlNSPILMuA1.jpg"
+                            },
+                            {
+                                "url": "/episodios/fool-in-love-1x7/",
+                                "title": "Fool in Love: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8Uda4snUnUjuQ8c4RfDRcuFJGWg.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-journey-to-killing-you-2x4/",
+                                "title": "The Journey to Killing You: 2×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5lQKo4JLeuP6XrDRc5dx60iQ6KQ.jpg"
+                            },
+                            {
+                                "url": "/episodios/till-i-see-you-1x10/",
+                                "title": "Till I See You: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg"
+                            },
+                            {
+                                "url": "/episodios/twisted-tie-1x5/",
+                                "title": "Twisted Tie: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kkVyQCVLs5XfPvkdFi5cxG367BH.jpg"
+                            },
+                            {
+                                "url": "/episodios/teach-me-touch-me-1x3/",
+                                "title": "Teach Me, Touch Me: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g2IgWmnpSv63W7kqb15iJl4HLgR.jpg"
+                            },
+                            {
+                                "url": "/episodios/you-should-be-the-one-to-come-kiss-me-1x2/",
+                                "title": "You Should Be The One To Come Kiss Me: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hFExHoqYjCNTcS7jBeptww18yNt.jpg"
+                            },
+                            {
+                                "url": "/episodios/backdoor-2x4/",
+                                "title": "Backdoor: 2×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eLxqymVjIoOZdOhDFjmcfgmYGpf.jpg"
+                            },
+                            {
+                                "url": "/episodios/lovex3-1x11/",
+                                "title": "LOVEx3: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg"
+                            },
+                            {
+                                "url": "/episodios/decoding-you-1x4/",
+                                "title": "Decoding You: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uCuE1MOAuwObRkOCRNEUS2NVPO8.jpg"
+                            },
+                            {
+                                "url": "/episodios/good-boy-1x3/",
+                                "title": "Good Boy: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yU7Sw5bfTwY677JwHGUGGTOepKV.jpg"
+                            },
+                            {
+                                "url": "/episodios/fool-in-love-1x6/",
+                                "title": "Fool in Love: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8Uda4snUnUjuQ8c4RfDRcuFJGWg.jpg"
+                            },
+                            {
+                                "url": "/episodios/tamed-1x2/",
+                                "title": "TAMED: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5n8wZMuyQZ0j62dNnvOmzTZoZ9i.jpg"
+                            },
+                            {
+                                "url": "/episodios/tamed-1x1/",
+                                "title": "TAMED: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5n8wZMuyQZ0j62dNnvOmzTZoZ9i.jpg"
+                            },
+                            {
+                                "url": "/episodios/school-trip-joined-a-group-im-not-close-to-2x2/",
+                                "title": "School Trip: Joined a Group I’m Not Close To: 2×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9OjQW9zyz5up4EP8dlL4RoNlxEP.jpg"
+                            },
+                            {
+                                "url": "/episodios/not-yours-1x5/",
+                                "title": "Not Yours: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hBVBv9d7d6kax37n1OvQ1XNip9h.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/the-boy-next-world-my-destiny/",
+                                "title": "The Boy Next World: My Destiny",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/02/nohWGK7vL3COZZbp0a2DCJCWqAj-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter/",
+                                "title": "Isekai Office Worker: The Other World’s Books Depend on the Bean Counter",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/01/AcXLmVGzlqR20tGR8p4u6x1oQmU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-begins-in-the-world-of-if/",
+                                "title": "Love Begins in the World of If",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/ha24j6SIdbIFrcbXV31Gjhz0f5b-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/a-man-who-defies-the-world-of-bl/",
+                                "title": "A Man Who Defies The World of BL",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/9c7fZ5I5tjWFcvlSmMchUaR0kd2-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-boy-next-world/",
+                                "title": "The Boy Next World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/01/cMUmSQtv6Ni994Ozk7LnQDifYFm-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/two-worlds/",
+                                "title": "Two Worlds",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2024/03/1WjEHhxPep6ANrL4RiQzIRZKZ1C-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-end-of-the-world-with-you/",
+                                "title": "The End of The World With You",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/01/emQoy0wM6HbedNfv6hSvdI5b0uP-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/till-the-world-ends/",
+                                "title": "Till The World Ends",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/02/1xsvWbGXAliehlKJPjdIKuoA5V9-150x150.jpg"
+                            },
+                            {
+                                "url": "/filmes/center-of-my-world/",
+                                "title": "Center of My World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/05/Center-of-My-World-185x278-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/boyband/",
+                                "title": "Boyband",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/02/akq5Za12ZLGkFOETgOlfH9ixfU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-eclipse/",
+                                "title": "The Eclipse",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2022/08/upelDW5lk3wu0F4Cz9vVwXNvluE-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/mr-x-and-i/",
+                                "title": "Mr. X and I",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/08/aNTpkqlqfUcv4ZR9U96Sc06p500-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/series-de-tv/lovers-gangsters/",
+                    "title": "Lovers & Gangsters",
+                    "description": "Ambientada na Bangkok de 1956, esta história de amor e rivalidade no mundo do crime acompanha Hongsen, líder da gangue Gaoyod, que domina Thonburi, e Seng, chefe da gangue Khluk Fun, que controla Phra Nakhon.\n\nA rivalidade entre as duas gangues teve início com a morte de Suea Yai, pai de Seng. À medida que as tensões aumentam e o conflito entre os grupos se intensifica, romances inesperados começam a florescer: entre Hongsen e Yong, irmão de Seng, e entre Seng e So, um novo integrante de sua gangue.\n\nDivididos entre o amor e os perigos da vida no crime, esses jovens embarcam em uma jornada para descobrir a verdade por trás da morte que deu origem a uma rivalidade de tantos anos.\n\nTítulo Original: หงเสนคลุกฝุ่น\nTemporadas: 1\nEpisódios: 16",
+                    "genre": "Ação, Aventura, Drama, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/e37puAig7GwRAugzblfsvDWP7O7.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/lovers-gangsters-1x1/",
+                        "name": "Temporada 1 x 1 - Episódio 1",
+                        "date_upload": 1793318400000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]
