@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Animes Games (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: animesgames.cc: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: animesgames.cc",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: animesgames.cc",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: animesgames.cc",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: animesgames.cc",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: animesgames.cc",
+                "passed": false
+            }
+        }
+    }
+]
