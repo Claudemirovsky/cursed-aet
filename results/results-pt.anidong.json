@@ -1,0 +1,271 @@
+[
+    {
+        "name": "AniDong (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/martial-master/",
+                                "title": "Martial Master",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/3f23aadbf5c0db1c4f0f5aebf28a91c8.jpg"
+                            },
+                            {
+                                "url": "/anime/doupo-cangqiong-5a-temporada/",
+                                "title": "Doupo Cangqiong – 5ª Temporada",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg"
+                            },
+                            {
+                                "url": "/anime/douluo-dalu/",
+                                "title": "Douluo Dalu",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/bcffa78c2db29a9eb14d79d308a60a30.jpg"
+                            },
+                            {
+                                "url": "/anime/perfect-world/",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://i1.wp.com/i1.wp.com/i.imgur.com/2Sg2SjK.jpg"
+                            },
+                            {
+                                "url": "/anime/swallowed-star/",
+                                "title": "Swallowed Star",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/wVIXqqxFbcfYLbdfPCce2jWXFMu.jpg"
+                            },
+                            {
+                                "url": "/anime/tales-of-demons-and-gods/",
+                                "title": "Tales of Demons and Gods",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/82484a4a4336f66bddf00fb688617acf.jpg"
+                            },
+                            {
+                                "url": "/anime/throne-of-seal/",
+                                "title": "Throne of Seal",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/962b8deb577d940cc0a8c740d5e880ce.jpg"
+                            },
+                            {
+                                "url": "/anime/against-the-sky-supreme/",
+                                "title": "Against The Sky Supreme",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/a26316c0e740c66693af8a7227ae0a01.jpg"
+                            },
+                            {
+                                "url": "/anime/douluo-dalu-2-peerless-tang-sect/",
+                                "title": "Douluo Dalu 2: Peerless Tang Sect",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/fgFjaQlPZcUWyT8FvoUUn97SqBV.jpg"
+                            },
+                            {
+                                "url": "/anime/a-record-of-a-mortals-journey-to-immortality/",
+                                "title": "A Record of a Mortal’s Journey to Immortality",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/wXWTU2bQsms0uiFrPMy9zSITtYC.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/video/9700/",
+                                "title": "Douluo Dalu 2: Peerless Tang Sect Episódio 71",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/fgFjaQlPZcUWyT8FvoUUn97SqBV.jpg"
+                            },
+                            {
+                                "url": "/video/9699/",
+                                "title": "Immortality – 4ª Temporada Episódio 10",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/27566dacd5d4eb8d7e295908fdf529ac.jpg"
+                            },
+                            {
+                                "url": "/video/9698/",
+                                "title": "My Senior Brother Is Too Steady [Shixiong A Shixiong] Episódio 58",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/lJjzrz1LFGws4w7Jp9HHIytUXMQ.jpg"
+                            },
+                            {
+                                "url": "/video/9696/",
+                                "title": "Slay the Gods Episódio 12",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/8f02a8ea04520dd5fe6b48c28daad278.jpg"
+                            },
+                            {
+                                "url": "/video/9695/",
+                                "title": "Perfect World Episódio 185",
+                                "thumbnail_url": "https://i1.wp.com/i1.wp.com/i.imgur.com/2Sg2SjK.jpg"
+                            },
+                            {
+                                "url": "/video/9692/",
+                                "title": "Alchemy Supreme Episódio 81",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/acffaf5e19617efadcebb9d945b552bc.jpg"
+                            },
+                            {
+                                "url": "/video/9690/",
+                                "title": "Dragon Prince Yuan Episódio 23",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/dmViaALlkWnAj3AsFkxHt2G6eUI.jpg"
+                            },
+                            {
+                                "url": "/video/9688/",
+                                "title": "Peerless Battle Spirit Episódio 47",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/64GQlNTY22QJE48WLn2AEJhpqW1.jpg"
+                            },
+                            {
+                                "url": "/video/9686/",
+                                "title": "Martial Master Episódio 480",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/3f23aadbf5c0db1c4f0f5aebf28a91c8.jpg"
+                            },
+                            {
+                                "url": "/video/9685/",
+                                "title": "Shrouding the Heavens Episódio 79",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/nU0VcvU2rl7mRxV90RwtyTKlA7l.jpg"
+                            },
+                            {
+                                "url": "/video/9684/",
+                                "title": "The Legend of Sky Lord Episódio 12",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/0baa6ea879918cfe06e2ec02537a4f3d.jpg"
+                            },
+                            {
+                                "url": "/video/9683/",
+                                "title": "Renegade Immortal Episódio 58",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/bf7dfae8bf7ec8f6a173f825c9083d1b.jpg"
+                            },
+                            {
+                                "url": "/video/9678/",
+                                "title": "Purgatory Walkers Episódio 12",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/e3b3f3e2ab099757321044741629220f.jpg"
+                            },
+                            {
+                                "url": "/video/9677/",
+                                "title": "Swallowed Star Episódio 141",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/wVIXqqxFbcfYLbdfPCce2jWXFMu.jpg"
+                            },
+                            {
+                                "url": "/video/9676/",
+                                "title": "A Record of a Mortal’s Journey to Immortality Episódio 123",
+                                "thumbnail_url": "https://i1.wp.com/image.tmdb.org/t/p/original/wXWTU2bQsms0uiFrPMy9zSITtYC.jpg"
+                            },
+                            {
+                                "url": "/video/9675/",
+                                "title": "Throne of Seal Episódio 128",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/962b8deb577d940cc0a8c740d5e880ce.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/perfect-world-theater-edition/",
+                                "title": "Perfect World Theater Edition",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/4aaac0f8d0e3885221aa59c04c712fd6.jpg"
+                            },
+                            {
+                                "url": "/anime/otherworldly-evil-monarch/",
+                                "title": "Otherworldly Evil Monarch",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/96c2739c28866fa5622284630735ca45.jpg"
+                            },
+                            {
+                                "url": "/anime/dawn-of-the-world/",
+                                "title": "Dawn of the World",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/c235a691673c4bf951a930f9b810b22a.jpg"
+                            },
+                            {
+                                "url": "/anime/perfect-world/",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://i1.wp.com/i1.wp.com/i.imgur.com/2Sg2SjK.jpg"
+                            },
+                            {
+                                "url": "/anime/the-pharmacy-of-the-other-world/",
+                                "title": "The Pharmacy of the Other World",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/73ac3c8c4843eef365e705142f945c7e.jpg"
+                            },
+                            {
+                                "url": "/anime/my-journey-in-an-alternate-world/",
+                                "title": "My Journey in an Alternate World",
+                                "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/d3219c080e0be658f7619acf8bd57b50.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/anime/martial-master/",
+                    "title": "Martial Master",
+                    "artist": "Ruo Hong Culture",
+                    "description": "Nomes alternativos: The God of War Dominates,武神主宰,Martial Master,Wu Shen Zhu Zai,Wushen Zhuzai\n\nO protagonista Qin Chen, que originalmente era o principal gênio no domínio militar, foi conspirado pelo povo para cair no cânion da morte da terra proibida no continente. Qin Chen, que estava inevitavelmente morto, provocou inesperadamente o poder da misteriosa espada antiga… Trezentos anos depois, em uma parte remota do continente de Tianwu, um garoto de mesmo nome acidentalmente herdou a vontade de Qin Chen. Como neto amado do rei Dingwu do Exército Nacional de Daqi, devido ao pai biológico, a mãe e filho foram tratados friamente no palácio de Dingwu e viveram juntos. A fim de reescrever o mito da esperança para os fortes e proteger tudo o que ele ama, Qin Chen assumiu resolutamente a responsabilidade de manter os cinco reinos do mundo e pisar novamente no caminho das artes marciais.",
+                    "genre": "Ação, Artes Marciais, Aventura, Cultivo, Drama, Fantasia, Harém, Histórico",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i1.wp.com/anidong.net/wp-content/uploads/animes/3f23aadbf5c0db1c4f0f5aebf28a91c8.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/video/9687/",
+                        "name": "Episódio 481",
+                        "episode_number": 481.0
+                    },
+                    {
+                        "url": "/video/9686/",
+                        "name": "Episódio 480",
+                        "episode_number": 480.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://rr5---sn-ab5sznzl.googlevideo.com/videoplayback?expire=1729563981&ei=zJwWZ7CEPbiKkucPnLGQyQQ&ip=2a01:4ff:f0:98fb::1&id=06b9b54478a86be4&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535181,&mh=Gu&mm=31&mn=sn-ab5sznzl&ms=au&mv=u&mvi=5&pl=56&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=317.950&lmt=1729106652977529&mt=1729534770&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgZppRH8Tdxrj9IopzcQRigmHW-0FAaX0YO-9KQ4-VyFQCIQDvripaan_tWk_SYnkp8BNUpu9xzQPCwkJJFQPPBEvyaw%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhANnRqlYkPAcar6WPW1ZTTWLp5RyI9KyPKVdx0Rg-DAv2AiEA35VIiOPOQYMX0ECpzNKFKM5gCm-kmFZiKE9bLnnjIYw%3D",
+                        "quality": "Player 1 - HD",
+                        "videoUrl": "https://rr5---sn-ab5sznzl.googlevideo.com/videoplayback?expire=1729563981&ei=zJwWZ7CEPbiKkucPnLGQyQQ&ip=2a01:4ff:f0:98fb::1&id=06b9b54478a86be4&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535181,&mh=Gu&mm=31&mn=sn-ab5sznzl&ms=au&mv=u&mvi=5&pl=56&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=317.950&lmt=1729106652977529&mt=1729534770&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgZppRH8Tdxrj9IopzcQRigmHW-0FAaX0YO-9KQ4-VyFQCIQDvripaan_tWk_SYnkp8BNUpu9xzQPCwkJJFQPPBEvyaw%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhANnRqlYkPAcar6WPW1ZTTWLp5RyI9KyPKVdx0Rg-DAv2AiEA35VIiOPOQYMX0ECpzNKFKM5gCm-kmFZiKE9bLnnjIYw%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://anidong.net",
+                            "x-requested-with": "XMLHttpRequest"
+                        }
+                    },
+                    {
+                        "url": "https://rr5---sn-ab5sznzl.googlevideo.com/videoplayback?expire=1729563981&ei=zJwWZ7CEPbiKkucPnLGQyQQ&ip=2a01:4ff:f0:98fb::1&id=06b9b54478a86be4&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535181,&mh=Gu&mm=31&mn=sn-ab5sznzl&ms=au&mv=u&mvi=5&pl=56&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=317.950&lmt=1729107003395831&mt=1729534770&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIga2z8MC2MGED1kF6A-WedYtMgmzZbBfGrR4gOztu0M8wCICIiFiLUM7bR1zrVpwU3lMpPxrhsT_i91zREfNaUG-uz&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAOuuzVVLxN1bfpkjpTvxRwqWnAOnuSEq8EpeiTJ47PMXAiANl92FAHhYELf0GH8u-2li3o1us-fc01wvLrgp6Qr07Q%3D%3D",
+                        "quality": "Player 1 - SD",
+                        "videoUrl": "https://rr5---sn-ab5sznzl.googlevideo.com/videoplayback?expire=1729563981&ei=zJwWZ7CEPbiKkucPnLGQyQQ&ip=2a01:4ff:f0:98fb::1&id=06b9b54478a86be4&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535181,&mh=Gu&mm=31&mn=sn-ab5sznzl&ms=au&mv=u&mvi=5&pl=56&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=317.950&lmt=1729107003395831&mt=1729534770&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIga2z8MC2MGED1kF6A-WedYtMgmzZbBfGrR4gOztu0M8wCICIiFiLUM7bR1zrVpwU3lMpPxrhsT_i91zREfNaUG-uz&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAOuuzVVLxN1bfpkjpTvxRwqWnAOnuSEq8EpeiTJ47PMXAiANl92FAHhYELf0GH8u-2li3o1us-fc01wvLrgp6Qr07Q%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://anidong.net",
+                            "x-requested-with": "XMLHttpRequest"
+                        }
+                    },
+                    {
+                        "url": "https://player.swallowedstar.net/files/playerHv3.php?t=https://fenix.image-cdn-poster.xyz/stream/donghuas/Martial-Master/1/481_1eea28/index.m3u8",
+                        "quality": "Player 2 - Unknown",
+                        "videoUrl": "https://player.swallowedstar.net/files/playerHv3.php?t=https://fenix.image-cdn-poster.xyz/stream/donghuas/Martial-Master/1/481_1eea28/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://anidong.net",
+                            "x-requested-with": "XMLHttpRequest"
+                        }
+                    },
+                    {
+                        "url": "https://gold.cdnanidong.xyz/videos/donghuas/Martial-Master/1/481_1eea28.mp4",
+                        "quality": "Player 3 - Unknown",
+                        "videoUrl": "https://gold.cdnanidong.xyz/videos/donghuas/Martial-Master/1/481_1eea28.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://anidong.net",
+                            "x-requested-with": "XMLHttpRequest"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

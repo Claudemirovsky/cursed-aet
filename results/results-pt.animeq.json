@@ -1,0 +1,250 @@
+[
+    {
+        "name": "AnimeQ (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/173315/",
+                                "title": "One Piece Fan Letter Episódio 01",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/One-Piece-Fan-Letter-Episodio-01.jpg"
+                            },
+                            {
+                                "url": "/173279/",
+                                "title": "Bleach: Sennen Kessen-hen – Soukoku-tan Episódio 03",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vHXmGuPW1p3vZtolc93oN8uXds3.jpg"
+                            },
+                            {
+                                "url": "/173256/",
+                                "title": "Dragon Ball Daima Episódio 02",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rLHW2wE4SZDfp7vXUxXRKj2zEY6.jpg"
+                            },
+                            {
+                                "url": "/172549/",
+                                "title": "Boku no Hero Academia 7 Episódio 21 – Final",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Boku-no-Hero-Academia-7-Episodio-21-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/173445/",
+                                "title": "Bakuage Sentai Boonboomger Episódio 34",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Bakuage-Sentai-Boonboomger-Episodios.jpg"
+                            },
+                            {
+                                "url": "/173443/",
+                                "title": "Kamen Rider Gavv Episódio 08",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kamen-Rider-Gavv-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173438/",
+                                "title": "Tsuma Shougakusei ni Naru Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tsuma-Shougakusei-ni-Naru-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173429/",
+                                "title": "MF Ghost 2 – Episodio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/MF-Ghost-Episodios-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/173407/",
+                                "title": "Tower of God 2 Episódio 16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5bYtTzLkyToLzHmxqopCvpuXDQp.jpg"
+                            },
+                            {
+                                "url": "/173388/",
+                                "title": "Nageki no Bourei wa Intai shitai Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Nageki-no-Bourei-wa-Intai-shitai-Episodio-AnimeQ-jpg.webp"
+                            },
+                            {
+                                "url": "/173382/",
+                                "title": "Tensei Kizoku Kantei Skill de Nariagaru 2 Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-2-1-jpg.webp"
+                            },
+                            {
+                                "url": "/173335/",
+                                "title": "Shangri-La Frontier: Kusogee Hunter Kamige ni Idoman to Su 2 Episodio 02",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shangri-La-Frontier.jpg"
+                            },
+                            {
+                                "url": "/173376/",
+                                "title": "Blue Lock 2 Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Blue-Lock-2-Episodio-00-jpg.webp"
+                            },
+                            {
+                                "url": "/173351/",
+                                "title": "Ao no Exorcist: Yuki no Hate-hen Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ao-no-Exorcist-Yuki-no-Hate-hen-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173347/",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi Jitsu wa Saikyou ni Tsuki Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173343/",
+                                "title": "Kimi wa Meido-sama Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kimi-wa-Meido-sama-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173328/",
+                                "title": "Uzumaki Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Uzumaki-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173321/",
+                                "title": "Fairy Tail: 100-nen Quest Episódio 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7fKmxo2JNvBidX4rT3tpdMd08uG.jpg"
+                            },
+                            {
+                                "url": "/173307/",
+                                "title": "Monogatari Series: Off & Monster Season Episódio 14",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Monogatari-Series-Off-Monster-Season-Episodios.jpg"
+                            },
+                            {
+                                "url": "/173300/",
+                                "title": "Maou 2099 Episódios 02",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Maou-2099.jpg"
+                            },
+                            {
+                                "url": "/173294/",
+                                "title": "Maou-sama Retry! R Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Maou-sama-Retry-R-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173288/",
+                                "title": "Chi.: Chikyuu no Undou ni Tsuite Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Chi-Chikyuu-no-Undou-ni-Tsuite-Episodios-jpg.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/172293/",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal –  Todos os Episodios",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-Semifinal-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/170104/",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup –  Todos os Episodios",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/142549/",
+                                "title": "The World of the Married",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dorama-The-World-of-the-Married-Completo.jpg"
+                            },
+                            {
+                                "url": "/123374/",
+                                "title": "Dr. Stone: New World Part 2 Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/98979/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/87563/",
+                                "title": "Dr. Stone: New World Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr.-Stone-New-World-Dublado.jpg"
+                            },
+                            {
+                                "url": "/86837/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Dai-Star-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/86664/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Terceira-temporada-de-Dr.-Stone-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/66230/",
+                                "title": "World Trigger 3",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-3a-Temporada.jpg"
+                            },
+                            {
+                                "url": "/52418/",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World_Witches_Hasshin_Shimasu_promo_poster.jpg"
+                            },
+                            {
+                                "url": "/51536/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg"
+                            },
+                            {
+                                "url": "/51363/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hetalia-World-Stars.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/173310/",
+                    "title": "One Piece Fan Letter",
+                    "artist": "Toei Animation",
+                    "description": "Dois anos após a Summit War, na qual o pirata do Chapéu de Palha Luffy perdeu seu irmão Ace, a história se passa no Arquipélago de Sabaody. A protagonista, uma jovem garota que tem uma forte admiração por Nami, parte em uma pequena aventura. Este é um drama de conjunto que se concentra em pessoas que não perseguem ONE PIECE, retratando a reunião dos Piratas do Chapéu de Palha de sua perspectiva..",
+                    "genre": "animes, assistir online, baixar animes, completo, download, episodios HD, animeq",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/One-Piece-Fan-Letter.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/173315/",
+                        "name": "01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://rr5---sn-p5qlsn6l.googlevideo.com/videoplayback?expire=1729563979&ei=y5wWZ7qmPJ-FzLUPwojV2AM&ip=20.55.14.226&id=378b29cd45afcded&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535179,&mh=4d&mm=31&mn=sn-p5qlsn6l&ms=au&mv=m&mvi=5&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1495.783&lmt=1729458846473865&mt=1729534401&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgdHTYoeDjCQhqsTr2o7xhKxsnp_cnHmczK5nHVnFJDdsCIQDRt21y-NQehfe3tEk1KVfC3cVTnTEgFiuA9g-yFFK6Sw%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAJEmclduw1QQl7e8Dv4MB2CjeyzDnNv1Y6BK5ua5hxlIAiEA_u8XtVx8LX2U_DHRha64tacNi8Jy3URygiHMBz6nxAg%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr5---sn-p5qlsn6l.googlevideo.com/videoplayback?expire=1729563979&ei=y5wWZ7qmPJ-FzLUPwojV2AM&ip=20.55.14.226&id=378b29cd45afcded&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535179,&mh=4d&mm=31&mn=sn-p5qlsn6l&ms=au&mv=m&mvi=5&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1495.783&lmt=1729458846473865&mt=1729534401&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIgdHTYoeDjCQhqsTr2o7xhKxsnp_cnHmczK5nHVnFJDdsCIQDRt21y-NQehfe3tEk1KVfC3cVTnTEgFiuA9g-yFFK6Sw%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAJEmclduw1QQl7e8Dv4MB2CjeyzDnNv1Y6BK5ua5hxlIAiEA_u8XtVx8LX2U_DHRha64tacNi8Jy3URygiHMBz6nxAg%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeq.blog",
+                            "Origin": "https://animeq.blog"
+                        }
+                    },
+                    {
+                        "url": "https://rr5---sn-p5qlsn6l.googlevideo.com/videoplayback?expire=1729563979&ei=y5wWZ7qmPJ-FzLUPwojV2AM&ip=20.55.14.226&id=378b29cd45afcded&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535179,&mh=4d&mm=31&mn=sn-p5qlsn6l&ms=au&mv=m&mvi=5&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1495.783&lmt=1729458668821990&mt=1729534401&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAPWTKoDHcMZbUAc0CnZWR-7Bp8BbaELHOMVCj1stcDljAiA-a7pFiBzvkn8e0M2Onxrmgpc6YN7IicnFfpr8Uv9l9A%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgafXyZi0LwTyOEbnEjOCqA2Pbkf_lZLAj3PAiLp8wS8YCIA0huRJaFyCuhER5VPa_7SR1xjyTyOOSw8AG1cnFYfko",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr5---sn-p5qlsn6l.googlevideo.com/videoplayback?expire=1729563979&ei=y5wWZ7qmPJ-FzLUPwojV2AM&ip=20.55.14.226&id=378b29cd45afcded&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729535179,&mh=4d&mm=31&mn=sn-p5qlsn6l&ms=au&mv=m&mvi=5&pl=16&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1495.783&lmt=1729458668821990&mt=1729534401&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAPWTKoDHcMZbUAc0CnZWR-7Bp8BbaELHOMVCj1stcDljAiA-a7pFiBzvkn8e0M2Onxrmgpc6YN7IicnFfpr8Uv9l9A%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRAIgafXyZi0LwTyOEbnEjOCqA2Pbkf_lZLAj3PAiLp8wS8YCIA0huRJaFyCuhER5VPa_7SR1xjyTyOOSw8AG1cnFYfko",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeq.blog",
+                            "Origin": "https://animeq.blog"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]
