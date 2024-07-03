@@ -1,0 +1,323 @@
+[
+    {
+        "name": "Pi Fansubs (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/police-in-love/",
+                                "title": "Police in Love",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/roMyWPpLzE5wpl5XvnWRUtqLL14.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/seeing-double/",
+                                "title": "Seeing Double",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AetHg5yXyJt7x6JPKQx8Xx9fFGC.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/project-xy/",
+                                "title": "PROJECT XY",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/94EkLBkEA5H4tUX1mTlrrxCHJGr.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/how-do-we-relationship/",
+                                "title": "How Do We Relationship?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b7przbAbUlccoLi9cPi3NgnDSwF.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/till-i-see-you/",
+                                "title": "Till I See You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s86ITwh26sqHI43rVmO2xEUguh7.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/koi-naam-na-do/",
+                                "title": "Koi Naam Na Do",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/TUf0ylWaXxu3lMWiKdLTkZ3xlV.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/juliet-juliet/",
+                                "title": "Juliet & Juliet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xrsYGXEhCLhN8MeX50uxLxBzBLc.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/fairway-of-love/",
+                                "title": "Fairway of Love",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/deHIDwrFpxqYylquqeN1ITalWwX.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/khom-khlang/",
+                                "title": "Khom Khlang",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2VMAi1cwVkeuyFquGaOPhNc3t0g.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-missing-piece/",
+                                "title": "The Missing Piece",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3BZ6Ikewh53iN8thHmXtZCLQLaJ.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/your-sky-hare-nochi-koi-1x7/",
+                                "title": "Your Sky: Hare Nochi Koi: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/y5ZReeSNGNOlfw5G4lt3pWR83D8.jpg"
+                            },
+                            {
+                                "url": "/episodios/your-summer-my-storm-1x10/",
+                                "title": "Your Summer, My Storm: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/33yGIphUmn4ld8ogHwCELJwl0gp.jpg"
+                            },
+                            {
+                                "url": "/episodios/gelboys-2x6/",
+                                "title": "GELBOYS: 2×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pkWnlq1hZgB3bMDTfnfjb7zCH4F.jpg"
+                            },
+                            {
+                                "url": "/episodios/mr-fanboy-1x3/",
+                                "title": "Mr. Fanboy: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cB9WyVRgPrwbDzD7OpcU0IRJsdf.jpg"
+                            },
+                            {
+                                "url": "/episodios/you-maniac-1x3/",
+                                "title": "You Maniac: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dMrUXp0bFW4rvwXpuh58Vd8D0YW.jpg"
+                            },
+                            {
+                                "url": "/episodios/police-in-love-1x1/",
+                                "title": "Police in Love: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bWQVoQaq6194gMPSz8ALuHC3EM.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x8/",
+                                "title": "The Last Oath: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x7/",
+                                "title": "The Last Oath: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-missing-piece-1x3/",
+                                "title": "The Missing Piece: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-servant-prince-1x9/",
+                                "title": "The Servant Prince: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mtPUATykWPMRxpbx29qbohEqcZd.jpg"
+                            },
+                            {
+                                "url": "/episodios/make-it-right-2026-1x9/",
+                                "title": "Make It Right 2026: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5F76MDavZrK3Bl3baqNjPbxhPRp.jpg"
+                            },
+                            {
+                                "url": "/episodios/class-crush-crisis-1x8/",
+                                "title": "Class Crush Crisis: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lHfWCmkL0NWz9qxEvreCenI96qB.jpg"
+                            },
+                            {
+                                "url": "/episodios/weirdo-101-1x5/",
+                                "title": "WEIRDO-101: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ex4A9H8axYYLzROfzxP86s2mCYy.jpg"
+                            },
+                            {
+                                "url": "/episodios/dont-be-too-emotional-1x12/",
+                                "title": "Don’t Be Too Emotional: 1×12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nyvlQKlJbrpnFNI3gSYuQO28tEq.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x6/",
+                                "title": "The Last Oath: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x5/",
+                                "title": "The Last Oath: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/kiss-or-kill-1x8/",
+                                "title": "Kiss or Kill: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg"
+                            },
+                            {
+                                "url": "/episodios/kiss-or-kill-1x7/",
+                                "title": "Kiss or Kill: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg"
+                            },
+                            {
+                                "url": "/episodios/connecting-to-you-1x12/",
+                                "title": "Connecting to You: 1×12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg"
+                            },
+                            {
+                                "url": "/episodios/connecting-to-you-1x11/",
+                                "title": "Connecting to You: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg"
+                            },
+                            {
+                                "url": "/episodios/hold-on-harutora-kun-1x5/",
+                                "title": "Hold on, Harutora-kun: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/prKZkxjmPhqk0wpvE4fQLWTIxvG.jpg"
+                            },
+                            {
+                                "url": "/episodios/summertime-1x6/",
+                                "title": "Summertime: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg"
+                            },
+                            {
+                                "url": "/episodios/summertime-1x5/",
+                                "title": "Summertime: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg"
+                            },
+                            {
+                                "url": "/episodios/unlucky-bae-1x6/",
+                                "title": "Unlucky Bae: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg"
+                            },
+                            {
+                                "url": "/episodios/be-my-player-two-1x10/",
+                                "title": "Be My Player Two: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg"
+                            },
+                            {
+                                "url": "/episodios/till-i-see-you-1x3/",
+                                "title": "Till I See You: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg"
+                            },
+                            {
+                                "url": "/episodios/till-i-see-you-1x2/",
+                                "title": "Till I See You: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg"
+                            },
+                            {
+                                "url": "/episodios/till-i-see-you-1x1/",
+                                "title": "Till I See You: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg"
+                            },
+                            {
+                                "url": "/episodios/after-moving-seats-the-boy-behind-me-has-a-crush-on-me-1x6/",
+                                "title": "After Moving Seats, The Boy Behind Me Has A Crush On Me: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ablW5ZeqiVcbL7vv9fwDLONYJwM.jpg"
+                            },
+                            {
+                                "url": "/episodios/love-algorithm-1x9/",
+                                "title": "Love Algorithm: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xvEcXndL4PVE6EEXlNypzouU4jj.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/the-boy-next-world-my-destiny/",
+                                "title": "The Boy Next World: My Destiny",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/02/nohWGK7vL3COZZbp0a2DCJCWqAj-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter/",
+                                "title": "Isekai Office Worker: The Other World’s Books Depend on the Bean Counter",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/01/AcXLmVGzlqR20tGR8p4u6x1oQmU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-begins-in-the-world-of-if/",
+                                "title": "Love Begins in the World of If",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/ha24j6SIdbIFrcbXV31Gjhz0f5b-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/a-man-who-defies-the-world-of-bl/",
+                                "title": "A Man Who Defies The World of BL",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/9c7fZ5I5tjWFcvlSmMchUaR0kd2-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-boy-next-world/",
+                                "title": "The Boy Next World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/01/cMUmSQtv6Ni994Ozk7LnQDifYFm-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/two-worlds/",
+                                "title": "Two Worlds",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2024/03/1WjEHhxPep6ANrL4RiQzIRZKZ1C-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-end-of-the-world-with-you/",
+                                "title": "The End of The World With You",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/01/emQoy0wM6HbedNfv6hSvdI5b0uP-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/till-the-world-ends/",
+                                "title": "Till The World Ends",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/02/1xsvWbGXAliehlKJPjdIKuoA5V9-150x150.jpg"
+                            },
+                            {
+                                "url": "/filmes/center-of-my-world/",
+                                "title": "Center of My World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/05/Center-of-My-World-185x278-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/boyband/",
+                                "title": "Boyband",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/02/akq5Za12ZLGkFOETgOlfH9ixfU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-eclipse/",
+                                "title": "The Eclipse",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2022/08/upelDW5lk3wu0F4Cz9vVwXNvluE-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/mr-x-and-i/",
+                                "title": "Mr. X and I",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/08/aNTpkqlqfUcv4ZR9U96Sc06p500-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/series-de-tv/police-in-love/",
+                    "title": "Police in Love",
+                    "description": "O inspetor Theer é obrigado a se casar com Mangkorn, seu subordinado com quem vive discutindo, para afastar o azar previsto por uma cartomante. O acordo entre os dois é simples: seis meses de casamento e depois o divórcio.\n\nPorém, quanto mais tempo passam vivendo juntos, mais profundo se torna o vínculo entre eles. A relação dos dois é colocada à prova por um ex-namorado, um oficial superior que esconde seus sentimentos e uma profecia assustadora: o infortúnio de Theer acabará recaindo sobre Mangkorn.\n\nSerá que eles conseguirão superar todos os obstáculos e transformar um casamento feito para desafiar o destino em um amor verdadeiro? Descubra em “Police in Love”.\n\nTítulo Original: ที่รักสารวัตรเธียร์\nTemporadas: 1\nEpisódios: 12",
+                    "genre": "Comedy, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/roMyWPpLzE5wpl5XvnWRUtqLL14.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/police-in-love-1x1/",
+                        "name": "Temporada 1 x 1 - Episódio 1",
+                        "date_upload": 1789171200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]

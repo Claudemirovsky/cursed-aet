@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Animes Digital (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/video/a/138880/",
+                                "title": "Bleach Final Season",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Bleach-Final-SeasonEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138891/",
+                                "title": "Saijo no Osewa",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-saijo-no-osewa-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138890/",
+                                "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138889/",
+                                "title": "Kabushikigaisha Magi-Lumière Season 2",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kabushikigaisha-magi-lumiere-season-2-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138888/",
+                                "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Hanaori-san-wa-Tensei-shitemo-Kenka-ga-Shitai.jpg"
+                            },
+                            {
+                                "url": "/video/a/138887/",
+                                "title": "Oni no Hanayome",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-oni-no-hanayome-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138883/",
+                                "title": "Grow Up Show: Himawari no Circus-dan",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-grow-up-show-himawari-no-circus-dan-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138886/",
+                                "title": "Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138885/",
+                                "title": "Tenmaku no Jaadugar",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-tenmaku-no-jaadugar-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138884/",
+                                "title": "Yomi no Tsugai",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Yomi-no-TsugaiEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138879/",
+                                "title": "Iwamoto-senpai no Suisen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-iwamoto-senpai-no-suisen-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138878/",
+                                "title": "Neko to Ryuu",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/06/Neko-to-RyuuEp.jpeg"
+                            },
+                            {
+                                "url": "/video/a/138877/",
+                                "title": "Black Torch",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/black-torch-thumbpadra1.jpg"
+                            },
+                            {
+                                "url": "/video/a/138876/",
+                                "title": "Honzuki no Gekokujou 4",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Honzuki-no-Gekokujou-4Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138875/",
+                                "title": "Mairimashita! Iruma-kun 4",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Mairimashita-Iruma-kun-4Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138874/",
+                                "title": "Uchi no Otouto-domo ga Sumimasen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Uchi-no-Otouto-domo-ga-SumimasenEp.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/anime/a/bleach-final-season-todos-episodios002",
+                    "title": "Bleach Final Season",
+                    "artist": "Pierrot",
+                    "description": "Bleach Final Season A história acompanha Ichigo, um jovem que acaba se tornando um shinigami após encontrar Rukia, uma misteriosa garota que o atravessa como uma espada gigante. Os dois então passam a viver juntos, onde Rukia precisa ensinar Ichigo a usar seus novos poderes para que ela consiga recuperar os seus.",
+                    "genre": "Ação, Aventura, Sobrenatural",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]
