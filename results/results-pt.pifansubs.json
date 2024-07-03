@@ -1,0 +1,329 @@
+[
+    {
+        "name": "Pi Fansubs (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/fool-in-love/",
+                                "title": "Fool in Love",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tE5gpl1mUEnyyGS0KpaOqs042Z9.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-journey-to-killing-you/",
+                                "title": "The Journey to Killing You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/FsPanZiFh8YfsaIqn90jDbdv29.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/twisted-tie/",
+                                "title": "Twisted Tie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/h5UlSUBTG7XQ8UsGdAdkqeiNTSo.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/ao-to-midori/",
+                                "title": "Ao to Midori",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zimo6OVV6ykuiDap3wK1UHAj76g.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/universe-of-love/",
+                                "title": "Universe of Love",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1Lc54PrsuSA8CBPBkLtvaXvsKug.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/decoding-you/",
+                                "title": "Decoding You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tObO4RXHWG13DDvRqasM0mcyDwJ.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/boy-with-caution/",
+                                "title": "Boy, with Caution",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7PACkKJJ09apWdYSKvDtbajprG.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/not-yours/",
+                                "title": "Not Yours",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/u0paQv86tlCWvBtAOIj56PTro5v.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/dile-chaay-jaare/",
+                                "title": "Dile Chaay Jaare",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vRpWxnbULShT5vsefoPh75AuBEd.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-penalty/",
+                                "title": "Love Penalty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ubDVAe5r6ux06DajrnUJrxVUaKg.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/the-crow-club-1x4/",
+                                "title": "The Crow Club: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5orhIVz0jI1rblfZTcxAppLxlI0.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-crow-club-1x3/",
+                                "title": "The Crow Club: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5orhIVz0jI1rblfZTcxAppLxlI0.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-crow-club-1x2/",
+                                "title": "The Crow Club: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5orhIVz0jI1rblfZTcxAppLxlI0.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-crow-club-1x1/",
+                                "title": "The Crow Club: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5orhIVz0jI1rblfZTcxAppLxlI0.jpg"
+                            },
+                            {
+                                "url": "/episodios/oops-mysterious-sounds-1x4/",
+                                "title": "Oops! Mysterious Sounds: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/d2K8LT8KZdV3S6TNS7t2t6UsJSt.jpg"
+                            },
+                            {
+                                "url": "/episodios/weirdo-101-1x9/",
+                                "title": "WEIRDO-101: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ex4A9H8axYYLzROfzxP86s2mCYy.jpg"
+                            },
+                            {
+                                "url": "/episodios/fool-in-love-1x2/",
+                                "title": "Fool in Love: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8Uda4snUnUjuQ8c4RfDRcuFJGWg.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x19/",
+                                "title": "The Last Oath: 1×19",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/unlucky-bae-1x10/",
+                                "title": "Unlucky Bae: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg"
+                            },
+                            {
+                                "url": "/episodios/backdoor-2x2/",
+                                "title": "Backdoor: 2×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eLxqymVjIoOZdOhDFjmcfgmYGpf.jpg"
+                            },
+                            {
+                                "url": "/episodios/fool-in-love-1x1/",
+                                "title": "Fool in Love: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8Uda4snUnUjuQ8c4RfDRcuFJGWg.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-journey-to-killing-you-2x1/",
+                                "title": "The Journey to Killing You: 2×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5lQKo4JLeuP6XrDRc5dx60iQ6KQ.jpg"
+                            },
+                            {
+                                "url": "/episodios/twisted-tie-1x1/",
+                                "title": "Twisted Tie: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kkVyQCVLs5XfPvkdFi5cxG367BH.jpg"
+                            },
+                            {
+                                "url": "/episodios/till-i-see-you-1x7/",
+                                "title": "Till I See You: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHK6b8tMuHvTay3gwz0d5O4R1YV.jpg"
+                            },
+                            {
+                                "url": "/episodios/nour-1x10/",
+                                "title": "NOUR: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg"
+                            },
+                            {
+                                "url": "/episodios/boy-with-caution-1x4/",
+                                "title": "Boy, with Caution: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gId3GMoQ1D8kXSMKEhWVupeKaxf.jpg"
+                            },
+                            {
+                                "url": "/episodios/boy-with-caution-1x3/",
+                                "title": "Boy, with Caution: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gId3GMoQ1D8kXSMKEhWVupeKaxf.jpg"
+                            },
+                            {
+                                "url": "/episodios/love-is-better-the-second-time-around-2x6/",
+                                "title": "Love Is Better the Second Time Around: 2×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iBSwDPxRhiuFLzbNZIm809jvv5Y.jpg"
+                            },
+                            {
+                                "url": "/episodios/popular-serizawa-acts-weird-around-me-1x9/",
+                                "title": "Popular Serizawa Acts Weird Around Me: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wlE6H18JgSFVtFHnoDuaYGRGVBS.jpg"
+                            },
+                            {
+                                "url": "/episodios/decoding-you-1x1/",
+                                "title": "Decoding You: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uCuE1MOAuwObRkOCRNEUS2NVPO8.jpg"
+                            },
+                            {
+                                "url": "/episodios/your-third-1x11/",
+                                "title": "Your Third: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg"
+                            },
+                            {
+                                "url": "/episodios/lovex3-1x8/",
+                                "title": "LOVEx3: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-missing-piece-1x10/",
+                                "title": "The Missing Piece: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg"
+                            },
+                            {
+                                "url": "/episodios/mr-fanboy-1x6/",
+                                "title": "Mr. Fanboy: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cB9WyVRgPrwbDzD7OpcU0IRJsdf.jpg"
+                            },
+                            {
+                                "url": "/episodios/not-yours-1x2/",
+                                "title": "Not Yours: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hBVBv9d7d6kax37n1OvQ1XNip9h.jpg"
+                            },
+                            {
+                                "url": "/episodios/you-maniac-1x6/",
+                                "title": "You Maniac: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dMrUXp0bFW4rvwXpuh58Vd8D0YW.jpg"
+                            },
+                            {
+                                "url": "/episodios/police-in-love-1x4/",
+                                "title": "Police in Love: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bWQVoQaq6194gMPSz8ALuHC3EM.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x18/",
+                                "title": "The Last Oath: 1×18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-missing-piece-1x9/",
+                                "title": "The Missing Piece: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yIESAKzVwEbuU3RFPFv5Kcx7xa9.jpg"
+                            },
+                            {
+                                "url": "/episodios/a-winter-sun-wakes-the-wind-in-spring-hills-dream-1x18/",
+                                "title": "A Winter Sun Wakes the Wind in Spring Hills’ Dream: 1×18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dceESVXu34aEcrWMYUHO23EVFjd.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/the-boy-next-world-my-destiny/",
+                                "title": "The Boy Next World: My Destiny",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/02/nohWGK7vL3COZZbp0a2DCJCWqAj-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter/",
+                                "title": "Isekai Office Worker: The Other World’s Books Depend on the Bean Counter",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/01/AcXLmVGzlqR20tGR8p4u6x1oQmU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-begins-in-the-world-of-if/",
+                                "title": "Love Begins in the World of If",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/ha24j6SIdbIFrcbXV31Gjhz0f5b-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/a-man-who-defies-the-world-of-bl/",
+                                "title": "A Man Who Defies The World of BL",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/9c7fZ5I5tjWFcvlSmMchUaR0kd2-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-boy-next-world/",
+                                "title": "The Boy Next World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/01/cMUmSQtv6Ni994Ozk7LnQDifYFm-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/two-worlds/",
+                                "title": "Two Worlds",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2024/03/1WjEHhxPep6ANrL4RiQzIRZKZ1C-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-end-of-the-world-with-you/",
+                                "title": "The End of The World With You",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/01/emQoy0wM6HbedNfv6hSvdI5b0uP-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/till-the-world-ends/",
+                                "title": "Till The World Ends",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/02/1xsvWbGXAliehlKJPjdIKuoA5V9-150x150.jpg"
+                            },
+                            {
+                                "url": "/filmes/center-of-my-world/",
+                                "title": "Center of My World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/05/Center-of-My-World-185x278-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/boyband/",
+                                "title": "Boyband",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/02/akq5Za12ZLGkFOETgOlfH9ixfU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-eclipse/",
+                                "title": "The Eclipse",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2022/08/upelDW5lk3wu0F4Cz9vVwXNvluE-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/mr-x-and-i/",
+                                "title": "Mr. X and I",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/08/aNTpkqlqfUcv4ZR9U96Sc06p500-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/series-de-tv/fool-in-love/",
+                    "title": "Fool in Love",
+                    "description": "Ambientada em Bangkok, uma metrópole comercial em rápida ascensão, onde dinheiro, poder, fama e influência se entrelaçam nos círculos da alta sociedade, a história acompanha Ing, o filho mais velho da família Jian. Orgulhoso, rebelde e dono de uma beleza impressionante, Ing é um prodígio dos negócios cujo sucesso extraordinário desperta uma inveja quase obsessiva em seu meio-irmão.\n\nYok, o segundo filho da família Li, carrega o peso das grandes expectativas de sua família. Gentil e extremamente inteligente, ele esconde por trás de sua aparência tranquila o passado como boxeador profissional reserva e a pressão constante das obrigações familiares. No entanto, depois de conhecer Ing, um lado de si mesmo que havia reprimido por muito tempo começa a despertar.\n\nÀ medida que seus caminhos se cruzam, Ing e Yok se veem envolvidos em uma relação intensa e turbulenta, na qual amor e ódio se confundem em um perigoso jogo de sentimentos.\n\nTítulo Original: คนโง่รักเข(ล)า\nTemporadas: 1\nEpisódios: 20",
+                    "genre": "Drama, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/tE5gpl1mUEnyyGS0KpaOqs042Z9.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/fool-in-love-1x2/",
+                        "name": "Temporada 1 x 2 - Episódio 2",
+                        "date_upload": 1791504000000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episodios/fool-in-love-1x1/",
+                        "name": "Temporada 1 x 1 - Episódio 1",
+                        "date_upload": 1791417600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]
