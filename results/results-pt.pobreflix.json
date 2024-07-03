@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Pobreflix (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: pobreflix4.art: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: pobreflix4.art",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: pobreflix4.art",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: pobreflix4.art",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: pobreflix4.art",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: pobreflix4.art",
+                "passed": false
+            }
+        }
+    }
+]
