@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Megaflix (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "javax.net.ssl.SSLHandshakeException: (certificate_unknown) PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
+            },
+            "latest": {
+                "error": "javax.net.ssl.SSLHandshakeException: (certificate_unknown) PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
+            },
+            "search": {
+                "error": "javax.net.ssl.SSLHandshakeException: (certificate_unknown) PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.SocketTimeoutException: Read timed out",
+                "passed": false
+            },
+            "episodes": {
+                "error": "javax.net.ssl.SSLHandshakeException: (certificate_unknown) PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "passed": false
+            },
+            "videos": {
+                "error": "javax.net.ssl.SSLException: (internal_error) Received fatal alert: internal_error",
+                "passed": false
+            }
+        }
+    }
+]

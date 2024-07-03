@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Donghua no Sekai (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/a-will-eternal-4-episodio-08-173",
+                                "title": "A Will Eternal – 4ª Temporada Final",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/08_1080p_730db021.a-will.jpg.webp"
+                            },
+                            {
+                                "url": "/necromancer-king-of-the-scourge-episodio-266-a-270",
+                                "title": "NECROMANCER: King of The Scourge",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/09/266-270_1080p_9239dfb6.necro_.jpg.webp"
+                            },
+                            {
+                                "url": "/necromancer-king-of-the-scoorce-3d-episodio-13",
+                                "title": "Necromancer: King of the Scoorce 3D",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/13_1080p_8e2716c3.Necro3d.jpg.webp"
+                            },
+                            {
+                                "url": "/jade-dynasty-4-episodio-82",
+                                "title": "Jade Dynasty",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/09/82_800p_75ae7c15.Jade_.jpg.webp"
+                            },
+                            {
+                                "url": "/oriental-martial-academy-episodio-08",
+                                "title": "Oriental Martial Academy",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/08_820p_865a492e.Oriental.jpg.webp"
+                            },
+                            {
+                                "url": "/perfect-world-episodio-20-2",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/20_816p_d90d5511.Perfect.jpg.webp"
+                            },
+                            {
+                                "url": "/doupo-cangqiong-nian-fan-episodio-36",
+                                "title": "Doupo Cangqiong: Nian Fan",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/036_800p_f31a91be.Doupo_.jpg.webp"
+                            },
+                            {
+                                "url": "/golden-curse-episodio-01",
+                                "title": "Golden Curse",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/Golden-Curse-COV.jpg.webp"
+                            },
+                            {
+                                "url": "/tiger-crane-episodio-01",
+                                "title": "Tiger Crane",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/Tiger-Crane-COV-scaled.jpg.webp"
+                            },
+                            {
+                                "url": "/tales-of-demons-and-gods-10-episodio-64-444-e-65-445",
+                                "title": "Tales of Demons and Gods – 10ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/444-445_1080p_bd391a7f.Tales_.jpg.webp"
+                            },
+                            {
+                                "url": "/gu-an-episodio-06",
+                                "title": "Gu An",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/06_890p_9068295c.Guan_.jpg.webp"
+                            },
+                            {
+                                "url": "/slay-the-gods-2-episodio-14",
+                                "title": "Slay the Gods – 2ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/14_890p_44433995.Slay_.jpg.webp"
+                            },
+                            {
+                                "url": "/the-other-side-of-deep-space-episodio-22",
+                                "title": "The Other Side of Deep Space",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/22_816p_b1ed4810.The-Other.jpg.webp"
+                            },
+                            {
+                                "url": "/renegade-immortal-episodio-10-2",
+                                "title": "Renegade Immortal",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/10_816p_489cab39.Renegado.jpg.webp"
+                            },
+                            {
+                                "url": "/under-the-gate-episodio-02",
+                                "title": "Under The Gate",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/02_1080p_d9f8e161.Under_.jpg.webp"
+                            },
+                            {
+                                "url": "/beyond-times-gaze-episodio-36",
+                                "title": "Beyond Time’s Gaze",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/36_820p_228f293c.Gaze_.jpg.webp"
+                            },
+                            {
+                                "url": "/swallowed-star-episodio-238",
+                                "title": "Swallowed Star",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/238_1080p_762174b9.Swa_.jpg.webp"
+                            },
+                            {
+                                "url": "/the-demon-hunter-episodio-12",
+                                "title": "The Demon Hunter",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/12_1080p_edb54fef.Demon_.jpg.webp"
+                            },
+                            {
+                                "url": "/sword-of-coming-2-episodio-22",
+                                "title": "Sword Of Coming – 2ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/22_800p_9c635168.Comig_.jpg.webp"
+                            },
+                            {
+                                "url": "/100-000-years-of-refining-qi-episodio-367-368",
+                                "title": "100.000 Years of Refining Qi",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/367-368_1080p_e2994096.100000.jpg.webp"
+                            },
+                            {
+                                "url": "/false-memory-episodio-06",
+                                "title": "False Memory",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/06_1080p_8be4d884.False_.jpg.webp"
+                            },
+                            {
+                                "url": "/aliens-among-immortals-episodios-34-35",
+                                "title": "Aliens Among Immortals",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/34-35_1080p_565db528.Alien_.jpg.webp"
+                            },
+                            {
+                                "url": "/a-record-of-a-mortals-journey-to-immortality-episodio-76",
+                                "title": "A Record of a Mortal’s Journey to Immortality",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/76_1080p_458ca6d9.A-record.jpg.webp"
+                            },
+                            {
+                                "url": "/ever-night-episodio-final-19",
+                                "title": "Ever Night",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/19_816p_16cd4bc7.Ever_.jpg.webp"
+                            },
+                            {
+                                "url": "/in-search-of-gods-episodio-final-24",
+                                "title": "In Search of Gods",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/08/24_800p_8869ac60.Gods_.jpg.webp"
+                            },
+                            {
+                                "url": "/quanzhi-fashi-7-episodio-final-12",
+                                "title": "Quanzhi Fashi – 7ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/07/12_1080p_644b63d7.Quanzhi.jpg.webp"
+                            },
+                            {
+                                "url": "/coiling-dragon-episodio-final-20",
+                                "title": "Coiling Dragon",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/07/20_800p_b3cb8bb9.Coiling.jpg.webp"
+                            },
+                            {
+                                "url": "/100-000-years-of-refining-qi-especial-01",
+                                "title": "100.000 Years of Refining Qi – Especial",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/07/100.COV_.jpg.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/dawn-of-the-world",
+                                "title": "Dawn of the World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2023/04/DawnoftheWorld-destaque.jpg"
+                            },
+                            {
+                                "url": "/into-the-mortal-world",
+                                "title": "Into The Mortal World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/04/dNFtstmRt5UyuB6E5YSRnSCHwyL-scaled.jpg.webp"
+                            },
+                            {
+                                "url": "/my-journey-in-an-alternate-world",
+                                "title": "My Journey in an Alternate World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2022/02/119592l.jpg"
+                            },
+                            {
+                                "url": "/perfect-world",
+                                "title": "Perfect World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/04/616da722c0ae5.jpg.webp"
+                            },
+                            {
+                                "url": "/?post_type=anime&p=39903",
+                                "title": "Renegade Immortal",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2025/05/renegade-capa.webp"
+                            },
+                            {
+                                "url": "/?post_type=anime&p=26732",
+                                "title": "Shrouding the Heavens – Anidong",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2023/05/Shrouding-the-Heavens-capa--scaled.webp"
+                            },
+                            {
+                                "url": "/spirit-realm-1-5a-temporada",
+                                "title": "Spirit Realm – 1.5ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/12/0-3.jpg"
+                            },
+                            {
+                                "url": "/spirit-realm-1a-temporada",
+                                "title": "Spirit Realm – 1ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/10/1602451239-87671.jpg"
+                            },
+                            {
+                                "url": "/spirit-realm-2a-temporada",
+                                "title": "Spirit Realm – 2ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/10/1603932923-2600-88949.jpg"
+                            },
+                            {
+                                "url": "/spirit-realm-3a-temporada",
+                                "title": "Spirit Realm – 3ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/11/1604893720-1528-88950.jpg"
+                            },
+                            {
+                                "url": "/spirit-realm-4a-temporada",
+                                "title": "Spirit Realm – 4ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/11/1605204872-3973-92962.jpg"
+                            },
+                            {
+                                "url": "/spirit-realm-5a-temporada",
+                                "title": "Spirit Realm – 5ª Temporada",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/10/1602458093-92961.jpg"
+                            },
+                            {
+                                "url": "/the-pharmacy-of-the-other-world",
+                                "title": "The Pharmacy of the Other World",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2020/08/1597829219-108202.jpg"
+                            },
+                            {
+                                "url": "/world-defying-dan-god",
+                                "title": "World Defying Dan God",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2026/01/The-Alchemists-Rise.jpg"
+                            },
+                            {
+                                "url": "/world-of-immortal",
+                                "title": "World of Immortal",
+                                "thumbnail_url": "https://cdn.dnskcdn.link/2024/12/World-of-immortals-CAPA.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/a-will-eternal-4a-temporada-final",
+                    "title": "A Will Eternal – 4ª Temporada Final",
+                    "artist": "B.CMAY PICTURES",
+                    "description": "ACESSO ANTECIPADO, CLIQUE AQUI!\n\nContinuação da 3ª Temporada.\n\nTitulo Alternativo: AWE, 一念永恒 完结季, A Will Eternal Final Season\nStatus: Em Lançamento\nAno: 2026\nDuração: 19 min\nEstúdio: B.CMAY PICTURES\nTipo: ONA\nEpisódios: 47\nVisualizações: 14.1k\nPostado por: Fawesk",
+                    "genre": "Ação, Animação, Artes Marciais, Aventura, Comédia, Cultivo, Drama, Fantasia, Harém, Histórico, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://cdn.dnskcdn.link/2026/07/Will.jpg.webp",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/a-will-eternal-4-episodio-08-173",
+                        "name": "Episódio 08",
+                        "date_upload": 1788393600000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/a-will-eternal-4-episodio-07-172",
+                        "name": "Episódio 07",
+                        "date_upload": 1787788800000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://cdn-s02.star-wallpaper-4k.pictures/stream/a-will-eternal/season4/08_1080p_730db021.mp4/index.m3u8",
+                        "quality": "Player 1 - 1080p",
+                        "videoUrl": "https://cdn-s02.star-wallpaper-4k.pictures/stream/a-will-eternal/season4/08_1080p_730db021.mp4/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://donghuanosekai.com",
+                            "Origin": "https://donghuanosekai.com"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "name": "Pi Fansubs (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/the-last-oath/",
+                                "title": "The Last Oath",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rPabXwPOrm6sTE86wUmUqAfOwzA.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-is-better-the-second-time-around/",
+                                "title": "Love is Better the Second Time Around",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/N5o86sXZLkzxBc5MliTZr57ERW.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/mr-fanboy/",
+                                "title": "Mr. Fanboy",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mi9GzmqmVgY8vdnHVlx6rgJwhbb.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/you-maniac/",
+                                "title": "You Maniac",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gTvfipRjEdRzbn09CbI7XRj6cmg.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/quatro-maos-duas-sonatas/",
+                                "title": "Quatro Mãos, Duas Sonatas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cwSbNwRh4DEGgiPf2B35vaUQIZw.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/summertime/",
+                                "title": "Summertime",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uZLTSPocZHlezHcfqEYgW4JhcCR.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/proxy-driver/",
+                                "title": "Proxy Driver",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/r2vEkgmLQsmTa8O1mJVS57UtdIy.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/nour/",
+                                "title": "NOUR",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5uzLnxaYvDhrBCEXgjThwSDnYMN.jpg"
+                            },
+                            {
+                                "url": "/filmes/waves-of-us/",
+                                "title": "Waves Of Us",
+                                "thumbnail_url": "https://serveproxy.com/?url=https://i.imgur.com/0L86pVK.png"
+                            },
+                            {
+                                "url": "/series-de-tv/kiss-or-kill/",
+                                "title": "Kiss or Kill",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/abt5jlrsuitLeIVrhpC6cKn6XSr.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/weirdo-101-1x4/",
+                                "title": "WEIRDO-101: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ex4A9H8axYYLzROfzxP86s2mCYy.jpg"
+                            },
+                            {
+                                "url": "/episodios/class-crush-crisis-1x7/",
+                                "title": "Class Crush Crisis: 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lHfWCmkL0NWz9qxEvreCenI96qB.jpg"
+                            },
+                            {
+                                "url": "/episodios/make-it-right-2026-1x8/",
+                                "title": "Make It Right 2026: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5F76MDavZrK3Bl3baqNjPbxhPRp.jpg"
+                            },
+                            {
+                                "url": "/episodios/dont-be-too-emotional-1x11/",
+                                "title": "Don’t Be Too Emotional: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nyvlQKlJbrpnFNI3gSYuQO28tEq.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x2/",
+                                "title": "The Last Oath: 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/the-last-oath-1x1/",
+                                "title": "The Last Oath: 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mpZ0ZIPYZ01adCBJxZbT8dgED8V.jpg"
+                            },
+                            {
+                                "url": "/episodios/kiss-or-kill-1x6/",
+                                "title": "Kiss or Kill: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg"
+                            },
+                            {
+                                "url": "/episodios/kiss-or-kill-1x5/",
+                                "title": "Kiss or Kill: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gLiJPAnQl4jHODrq8Z3M783NB8S.jpg"
+                            },
+                            {
+                                "url": "/episodios/connecting-to-you-1x10/",
+                                "title": "Connecting to You: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg"
+                            },
+                            {
+                                "url": "/episodios/connecting-to-you-1x9/",
+                                "title": "Connecting to You: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9wIrbuthzBZci5SUkj0yeXh7gNB.jpg"
+                            },
+                            {
+                                "url": "/episodios/hold-on-harutora-kun-1x4/",
+                                "title": "Hold on, Harutora-kun: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/prKZkxjmPhqk0wpvE4fQLWTIxvG.jpg"
+                            },
+                            {
+                                "url": "/episodios/be-my-player-two-1x9/",
+                                "title": "Be My Player Two: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cW0b2avFjFHpOAPDdWlpRSkugrk.jpg"
+                            },
+                            {
+                                "url": "/episodios/summertime-1x4/",
+                                "title": "Summertime: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg"
+                            },
+                            {
+                                "url": "/episodios/summertime-1x3/",
+                                "title": "Summertime: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mcwzXqLswl7gjmJTXG2Z0JcuhfE.jpg"
+                            },
+                            {
+                                "url": "/episodios/unlucky-bae-1x5/",
+                                "title": "Unlucky Bae: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g2XaAttXQz9DzwZZ3A2wBckXf5d.jpg"
+                            },
+                            {
+                                "url": "/episodios/after-moving-seats-the-boy-behind-me-has-a-crush-on-me-1x5/",
+                                "title": "After Moving Seats, The Boy Behind Me Has A Crush On Me: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ablW5ZeqiVcbL7vv9fwDLONYJwM.jpg"
+                            },
+                            {
+                                "url": "/episodios/love-algorithm-1x8/",
+                                "title": "Love Algorithm: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xvEcXndL4PVE6EEXlNypzouU4jj.jpg"
+                            },
+                            {
+                                "url": "/episodios/nour-1x4/",
+                                "title": "NOUR: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qocG1nc3FKWjVNQ4VZhl29kTGOo.jpg"
+                            },
+                            {
+                                "url": "/episodios/my-summer-of-you-1x11/",
+                                "title": "My Summer of You: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uUUwl3SETfKDdHtZCtM3nZFhPFP.jpg"
+                            },
+                            {
+                                "url": "/episodios/knot-1x10/",
+                                "title": "Knot: 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iXFGfZUOZOHY5ufNhNU1lsvxvQ7.jpg"
+                            },
+                            {
+                                "url": "/episodios/love-is-better-the-second-time-around-2x1/",
+                                "title": "Love Is Better the Second Time Around: 2×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iBSwDPxRhiuFLzbNZIm809jvv5Y.jpg"
+                            },
+                            {
+                                "url": "/episodios/love-destiny-1x8/",
+                                "title": "Love Destiny: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pbFys3NignW6EmtO3fhXOwohgrL.jpg"
+                            },
+                            {
+                                "url": "/episodios/popular-serizawa-acts-weird-around-me-1x4/",
+                                "title": "Popular Serizawa Acts Weird Around Me: 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wlE6H18JgSFVtFHnoDuaYGRGVBS.jpg"
+                            },
+                            {
+                                "url": "/episodios/are-the-sexy-buttocks-not-good-1x9/",
+                                "title": "Are the Sexy Buttocks Not Good?: 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/r0ZamLJpQKw85mSWdirQpehFLWE.jpg"
+                            },
+                            {
+                                "url": "/episodios/your-third-1x6/",
+                                "title": "Your Third: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ubLFqGZFxaqPtkqyyIg8gQEmeSw.jpg"
+                            },
+                            {
+                                "url": "/episodios/lovex3-1x3/",
+                                "title": "LOVEx3: 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cSL9gSe8F0NaFVpeMZQ8ae7aCtz.jpg"
+                            },
+                            {
+                                "url": "/episodios/match-point-1x6/",
+                                "title": "Match Point: 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wpecCJ8pc4kzzZzedOXRYZTH0Y7.jpg"
+                            },
+                            {
+                                "url": "/episodios/your-sky-hare-nochi-koi-1x5/",
+                                "title": "Your Sky: Hare Nochi Koi: 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/y5ZReeSNGNOlfw5G4lt3pWR83D8.jpg"
+                            },
+                            {
+                                "url": "/episodios/your-summer-my-storm-1x8/",
+                                "title": "Your Summer, My Storm: 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/33yGIphUmn4ld8ogHwCELJwl0gp.jpg"
+                            },
+                            {
+                                "url": "/episodios/gelboys-2x4/",
+                                "title": "GELBOYS: 2×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pkWnlq1hZgB3bMDTfnfjb7zCH4F.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series-de-tv/the-boy-next-world-my-destiny/",
+                                "title": "The Boy Next World: My Destiny",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/02/nohWGK7vL3COZZbp0a2DCJCWqAj-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter/",
+                                "title": "Isekai Office Worker: The Other World’s Books Depend on the Bean Counter",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2026/01/AcXLmVGzlqR20tGR8p4u6x1oQmU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/love-begins-in-the-world-of-if/",
+                                "title": "Love Begins in the World of If",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/ha24j6SIdbIFrcbXV31Gjhz0f5b-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/a-man-who-defies-the-world-of-bl/",
+                                "title": "A Man Who Defies The World of BL",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/11/9c7fZ5I5tjWFcvlSmMchUaR0kd2-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-boy-next-world/",
+                                "title": "The Boy Next World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/01/cMUmSQtv6Ni994Ozk7LnQDifYFm-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/two-worlds/",
+                                "title": "Two Worlds",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2024/03/1WjEHhxPep6ANrL4RiQzIRZKZ1C-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-end-of-the-world-with-you/",
+                                "title": "The End of The World With You",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/01/emQoy0wM6HbedNfv6hSvdI5b0uP-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/till-the-world-ends/",
+                                "title": "Till The World Ends",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2025/02/1xsvWbGXAliehlKJPjdIKuoA5V9-150x150.jpg"
+                            },
+                            {
+                                "url": "/filmes/center-of-my-world/",
+                                "title": "Center of My World",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/05/Center-of-My-World-185x278-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/boyband/",
+                                "title": "Boyband",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/02/akq5Za12ZLGkFOETgOlfH9ixfU-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/the-eclipse/",
+                                "title": "The Eclipse",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2022/08/upelDW5lk3wu0F4Cz9vVwXNvluE-150x150.jpg"
+                            },
+                            {
+                                "url": "/series-de-tv/mr-x-and-i/",
+                                "title": "Mr. X and I",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2019/08/aNTpkqlqfUcv4ZR9U96Sc06p500-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/series-de-tv/the-last-oath/",
+                    "title": "The Last Oath",
+                    "description": "Num mundo devastado por um vírus zumbi fatal, a humanidade virou refém da disputa de poder entre duas grandes empresas farmacêuticas corruptas, que usam a busca pela vacina como fachada pra dominar o mundo. O universitário Lin Zai (Chen Liang) perdeu os pais e o irmão mais velho nessa tragédia. Só que ele descobre algo inacreditável: é imune às mordidas de zumbi, virando o alvo mais cobiçado dos poderosos. Quando Lin Zai salva a vida de Ah Lie (Chen Ming Hao), um agente encarregado de caçá-lo, surge uma conexão inesperada que logo vira uma paixão avassaladora. Em meio a um mundo cruel e lealdades divididas, eles vão ter que fazer escolhas impossíveis que vão testar esse amor até o limite.\n\nTítulo Original: 末誓\nTemporadas: 1\nEpisódios: 24",
+                    "genre": "Ação, Aventura, Drama, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rPabXwPOrm6sTE86wUmUqAfOwzA.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/the-last-oath-1x2/",
+                        "name": "Temporada 1 x 2 - Episódio 2",
+                        "date_upload": 1788480000000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episodios/the-last-oath-1x1/",
+                        "name": "Temporada 1 x 1 - Episódio 1",
+                        "date_upload": 1788480000000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]

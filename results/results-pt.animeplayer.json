@@ -1,0 +1,211 @@
+[
+    {
+        "name": "AnimePlayer (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/kanojo-saimin/",
+                                "title": "Kanojo Saimin",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/kanojo-saimin-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/raised-by-demons-panda-li/",
+                                "title": "Raised by Demons: Panda Li",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/raised-by-demons-panda-li-capa.webp"
+                            },
+                            {
+                                "url": "/animes/deco-x-deco/",
+                                "title": "Deco x Deco",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/deco-x-deco-capa.jpeg"
+                            },
+                            {
+                                "url": "/animes/sakamoto-days-hentai/",
+                                "title": "Sakamoto Days Hentai",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/sakamoto-days-hentai-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/harem-shima-e-youkoso/",
+                                "title": "Harem Shima e Youkoso!",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/harem-shima-e-youkoso-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/juurin-oukoku/",
+                                "title": "Juurin Oukoku",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/juurin-oukoku-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/to-be-winner/",
+                                "title": "To Be Winner",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/to-be-winner-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/boku-no-hero-academia-i-am-a-hero-too-dublado/",
+                                "title": "Boku no Hero Academia: I Am a Hero Too (Dublado)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/08/boku-no-hero-academia-i-am-a-hero-too-dublado-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-dublado/",
+                                "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Dublado)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/07/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-capa.jpg"
+                            },
+                            {
+                                "url": "/animes/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3-dublado/",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3 (Dublado)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/07/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3-temporada-3-capa.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/uchi-no-otouto-domo-ga-sumimasen-episodio-10/",
+                                "title": "Uchi no Otouto-domo ga Sumimasen Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/uchi-no-otouto-domo-ga-sumimasen-episodio-10-103.jpg"
+                            },
+                            {
+                                "url": "/episodios/nige-jouzu-no-wakagimi-2-episodio-8/",
+                                "title": "Nige Jouzu no Wakagimi 2 Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/nige-jouzu-no-wakagimi-2-episodio-8-072.jpg"
+                            },
+                            {
+                                "url": "/episodios/tensei-shitara-slime-datta-ken-4-episodio-21/",
+                                "title": "Tensei Shitara Slime Datta Ken 4 Episódio 21",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/tensei-shitara-slime-datta-ken-4-episodio-21-088.jpg"
+                            },
+                            {
+                                "url": "/episodios/tensei-shitara-slime-datta-ken-4-dublado-episodio-18/",
+                                "title": "Tensei shitara Slime Datta Ken 4 (Dublado) Episódio 18",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/tensei-shitara-slime-datta-ken-4-dublado-episodio-18-067.jpg"
+                            },
+                            {
+                                "url": "/episodios/kore-kaite-shine-episodio-9/",
+                                "title": "Kore Kaite Shine Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/kore-kaite-shine-episodio-9-076.jpg"
+                            },
+                            {
+                                "url": "/episodios/kami-no-shizuku-episodio-22/",
+                                "title": "Kami no Shizuku Episódio 22",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/kami-no-shizuku-episodio-22-014.jpg"
+                            },
+                            {
+                                "url": "/episodios/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-10/",
+                                "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita. Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-episodio-10-065.jpg"
+                            },
+                            {
+                                "url": "/episodios/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-10/",
+                                "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/ryoumin-0-nin-start-no-henkyou-ryoushu-sama-episodio-10-051.jpg"
+                            },
+                            {
+                                "url": "/episodios/kanojo-saimin-episodio-1/",
+                                "title": "Kanojo Saimin Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/kanojo-saimin-episodio-1-764.jpg"
+                            },
+                            {
+                                "url": "/episodios/otome-kaijuu-carameliser-dublado-episodio-7/",
+                                "title": "Otome Kaijuu Caraméliser (Dublado) Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/otome-kaijuu-carameliser-dublado-episodio-7-228.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/10/xoRwMPvORrZKqAvWKA0wm7vR250-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/egumi-legacy/",
+                                "title": "Egumi Legacy",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/07/6r7vA4WMBYwqqKo1ny7Teh1bYNO-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/makai-senki-disgaea/",
+                                "title": "Makai Senki Disgaea",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/bQgbjA328PuWQP1epb75sQEkMnU-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/animes/kanojo-saimin/",
+                    "title": "Kanojo Saimin",
+                    "genre": "+18, Ahegao, Anal, Boquete, Creampie, em Público, Escolar, Feio, Orgia, Peitos Grandes, Professor, Suruba, Trio, Virgem, X-Ray",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2026/09/kanojo-saimin-capa-185x278.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/kanojo-saimin-episodio-1/",
+                        "name": "Temporada 1 x Episódio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
+            }
+        }
+    }
+]
