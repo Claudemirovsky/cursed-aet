@@ -1,0 +1,235 @@
+[
+    {
+        "name": "AnimePlayer (PT-BR)",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/imouto-bitch-ni-shiboraretai/",
+                                "title": "Imouto Bitch ni Shiboraretai",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/imouto-bitch-ni-shiboraretai-1-AhvteuGqVu-185x272.jpg"
+                            },
+                            {
+                                "url": "/animes/seika-jogakuin-kounin-sao-ojisan/",
+                                "title": "Seika Jogakuin Kounin Sao Ojisan",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/seika-jogakuin-kounin-sao-ojisan-4-cv1-185x272.png"
+                            },
+                            {
+                                "url": "/animes/given-live-action/",
+                                "title": "Given (Live Action)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/toBWn3M3XYiDRGAPKnIft1cGsh4-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/the-legend-of-vox-machina-dublado/",
+                                "title": "The Legend of Vox Machina (Dublado)",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/hgQ1sQybq3pvdQcaYE18TR3CqRL-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/youkai-gakkou-no-sensei-hajimemashita/",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/iJUgPs4hjyeDL3zfEjHTETTm7jc-185x262.jpg"
+                            },
+                            {
+                                "url": "/animes/iribitari-gal-ni-manko-tsukawasete-morau-hanashi/",
+                                "title": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/Iribitari_Gal_ni_Manko_Tsukawasete_Morau_Hanashi_Episode_1_50-185x259.webp"
+                            },
+                            {
+                                "url": "/animes/sword-art-online-alternative-gun-gale-online-2/",
+                                "title": "Sword Art Online Alternative: Gun Gale Online 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/Sword-Art-Online-Alternative-Gun-Gale-Online-2-Todos-os-Episodios-Online-Goyabu-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/dandadan/",
+                                "title": "Dandadan",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/vtQug1eOyeU2VXIpNoDF1lTlcH4-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/kaa-chan-no-tomodachi-ni-shikotteru-tokoro-mirareta-the-animation/",
+                                "title": "Kaa-chan no Tomodachi ni Shikotteru Tokoro Mirareta The Animation",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/kaa-chan-no-tomodachi-ni-shikotteru-tokoro-mirareta-1-cv1-185x272.png"
+                            },
+                            {
+                                "url": "/animes/futei-with-the-animation/",
+                                "title": "Futei With… The Animation",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/futei-with-1-cv1-185x272.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/iribitari-gal-ni-manko-tsukawasete-morau-hanashi-episodio-2/",
+                                "title": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/2-19-300x165.png"
+                            },
+                            {
+                                "url": "/episodios/yoasobi-gurashi-sem-censura-episodio-7/",
+                                "title": "Yoasobi Gurashi! (Sem Censura) Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/7-300x168.png"
+                            },
+                            {
+                                "url": "/episodios/yoasobi-gurashi-sem-censura-episodio-6/",
+                                "title": "Yoasobi Gurashi! (Sem Censura) Episódio 6",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/6-2-300x162.png"
+                            },
+                            {
+                                "url": "/episodios/yoasobi-gurashi-sem-censura-episodio-5/",
+                                "title": "Yoasobi Gurashi! (Sem Censura) Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/5-2-300x166.png"
+                            },
+                            {
+                                "url": "/episodios/yoasobi-gurashi-sem-censura-episodio-4/",
+                                "title": "Yoasobi Gurashi! (Sem Censura) Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/4-9-300x167.png"
+                            },
+                            {
+                                "url": "/episodios/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei-2-episodio-4/",
+                                "title": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei 2 Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/4-11-300x149.png"
+                            },
+                            {
+                                "url": "/episodios/acro-trip-episodio-5/",
+                                "title": "Acro Trip Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/5-3-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episodio-3/",
+                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/3-17-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4/",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3 Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/4-10-300x150.png"
+                            },
+                            {
+                                "url": "/episodios/youkai-gakkou-no-sensei-hajimemashita-episodio-3/",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita! Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/3-16-300x151.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/10/xoRwMPvORrZKqAvWKA0wm7vR250-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/animes/imouto-bitch-ni-shiboraretai/",
+                    "title": "Imouto Bitch ni Shiboraretai",
+                    "genre": "Ahegao, Boob Job, Boquete, Creampie, Facial, Incesto, Masturbacao, Menina da escola, Peitos Grandes, Tsundere, Virgem, X-Ray",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2024/10/imouto-bitch-ni-shiboraretai-1-AhvteuGqVu-185x272.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodios/imouto-bitch-ni-shiboraretai-episodio-2/",
+                        "name": "Temporada 1 x Episódio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episodios/imouto-bitch-ni-shiboraretai-episodio-1/",
+                        "name": "Temporada 1 x Episódio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://rr5---sn-vgqsrnl6.googlevideo.com/videoplayback?expire=1729848294&ei=ZvMaZ-KUILvK-LYPhpX_yAY&ip=172.183.53.188&id=360cd35eb24e39cd&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729819494,&mh=gv&mm=31&mn=sn-vgqsrnl6&ms=au&mv=m&mvi=5&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=955.594&lmt=1697349680050136&mt=1729819260&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAO7HAFWswcVBTQ0taPG30HNzN3v6LtLLEAal8_mI2eOEAiBdXGGb632SJ8f1lfVJimnxSTLjgMfcM1guDbTmHNk1Ww%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAM8OzhyzUN5WLrLeNMmvSG1jDXLwUS176JNeLCwYe3BYAiEA2SH78vsKh5CNE2VwfWy0iO-MT32yECOqHIBkhJs-c0A%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr5---sn-vgqsrnl6.googlevideo.com/videoplayback?expire=1729848294&ei=ZvMaZ-KUILvK-LYPhpX_yAY&ip=172.183.53.188&id=360cd35eb24e39cd&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729819494,&mh=gv&mm=31&mn=sn-vgqsrnl6&ms=au&mv=m&mvi=5&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=955.594&lmt=1697349680050136&mt=1729819260&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAO7HAFWswcVBTQ0taPG30HNzN3v6LtLLEAal8_mI2eOEAiBdXGGb632SJ8f1lfVJimnxSTLjgMfcM1guDbTmHNk1Ww%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAM8OzhyzUN5WLrLeNMmvSG1jDXLwUS176JNeLCwYe3BYAiEA2SH78vsKh5CNE2VwfWy0iO-MT32yECOqHIBkhJs-c0A%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    },
+                    {
+                        "url": "https://rr5---sn-vgqsrnl6.googlevideo.com/videoplayback?expire=1729848294&ei=ZvMaZ-KUILvK-LYPhpX_yAY&ip=172.183.53.188&id=360cd35eb24e39cd&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729819494,&mh=gv&mm=31&mn=sn-vgqsrnl6&ms=au&mv=m&mvi=5&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=955.594&lmt=1697337873753524&mt=1729819260&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgOGauBytEHLfipWoENd-FKlsqNCz37JDV6UYWRWnFoggCIA0IamlJFx6GemLhLRPWqirk4FWnYc0EYeJEu_eGtbZv&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAKGqKD0LUGk__Kg7ylEjUfDvLUjGU0G2nAAUTboG0t56AiEA07I1809CdE-3MN1z45VAE4PuN2sCUThGZaE93H_G1xQ%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr5---sn-vgqsrnl6.googlevideo.com/videoplayback?expire=1729848294&ei=ZvMaZ-KUILvK-LYPhpX_yAY&ip=172.183.53.188&id=360cd35eb24e39cd&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729819494,&mh=gv&mm=31&mn=sn-vgqsrnl6&ms=au&mv=m&mvi=5&pl=15&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=955.594&lmt=1697337873753524&mt=1729819260&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRAIgOGauBytEHLfipWoENd-FKlsqNCz37JDV6UYWRWnFoggCIA0IamlJFx6GemLhLRPWqirk4FWnYc0EYeJEu_eGtbZv&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRgIhAKGqKD0LUGk__Kg7ylEjUfDvLUjGU0G2nAAUTboG0t56AiEA07I1809CdE-3MN1z45VAE4PuN2sCUThGZaE93H_G1xQ%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]
