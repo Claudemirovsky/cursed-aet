@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Animes CX (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: animescx.com.br: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: animescx.com.br",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: animescx.com.br",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: animescx.com.br",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: animescx.com.br",
+                "passed": false
+            },
+            "videos": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            }
+        }
+    }
+]
