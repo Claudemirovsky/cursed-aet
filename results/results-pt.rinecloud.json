@@ -1,0 +1,31 @@
+[
+    {
+        "name": "RineCloud (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: rine.cloud: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: rine.cloud",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: rine.cloud",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: rine.cloud",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: rine.cloud",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: rine.cloud",
+                "passed": false
+            }
+        }
+    }
+]

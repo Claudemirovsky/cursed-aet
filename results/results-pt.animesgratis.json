@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Bakashi (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.net.UnknownHostException: bakashi.tv: Name or service not known",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.net.UnknownHostException: bakashi.tv",
+                "passed": false
+            },
+            "search": {
+                "error": "java.net.UnknownHostException: bakashi.tv",
+                "passed": false
+            },
+            "details": {
+                "error": "java.net.UnknownHostException: bakashi.tv",
+                "passed": false
+            },
+            "episodes": {
+                "error": "java.net.UnknownHostException: bakashi.tv",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.UnknownHostException: bakashi.tv",
+                "passed": false
+            }
+        }
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Animes Digital (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/video/a/138947/",
+                                "title": "Iwamoto-senpai no Suisen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-iwamoto-senpai-no-suisen-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138946/",
+                                "title": "Black Torch",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/black-torch-thumbpadra1.jpg"
+                            },
+                            {
+                                "url": "/video/a/138945/",
+                                "title": "Mairimashita! Iruma-kun 4",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Mairimashita-Iruma-kun-4Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138943/",
+                                "title": "Hell Mode 2",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Hell-Mode-2Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138942/",
+                                "title": "Honzuki no Gekokujou 4",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Honzuki-no-Gekokujou-4Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138940/",
+                                "title": "Uchi no Otouto-domo ga Sumimasen",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Uchi-no-Otouto-domo-ga-SumimasenEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138939/",
+                                "title": "Nige Jouzu no Wakagimi 2nd Season",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-nige-jouzu-no-wakagimi-2nd-season-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138938/",
+                                "title": "Kore Kaite Shine",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/assistir-kore-kaite-shine-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138937/",
+                                "title": "Kami no Shizuku",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Kami-no-ShizukuEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138936/",
+                                "title": "Tensei Shitara Slime Datta Ken 4",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/04/Tensei-Shitara-Slime-Datta-Ken-4Ep.jpg"
+                            },
+                            {
+                                "url": "/video/a/138935/",
+                                "title": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Koko-wa-Ore-ni-Makasete-Saki-ni-Ike-to-IttekaraeP.jpg"
+                            },
+                            {
+                                "url": "/video/a/138934/",
+                                "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Ryoumin-0-nin-Start-no-Henkyou-Ryoushu-sama.jpg"
+                            },
+                            {
+                                "url": "/video/a/138932/",
+                                "title": "Otome Kaijuu Carameliser",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Otome-Kaiju-CarameliserEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138931/",
+                                "title": "Super no Ura de Yani Suu Futari",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/08/assistir-super-no-ura-de-yani-suu-futari-todos-os-episodios-online-animes-online.jpg"
+                            },
+                            {
+                                "url": "/video/a/138930/",
+                                "title": "Yani Neko",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/YaninekoEp.jpg"
+                            },
+                            {
+                                "url": "/video/a/138929/",
+                                "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
+                                "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2026/07/Tsuihou-Sareta-Tensei-Juu-Kishi-wa-Game-Chishiki-de-Musou-SuruEp.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/anime/a/iwamoto-senpai-no-suisen",
+                    "title": "Iwamoto-senpai no Suisen",
+                    "artist": "Studio DEEN",
+                    "description": "Iwamoto-senpai no Suisen A história se passa no ano de 1910 e acompanha Kodou Iwamoto, um estudante do 3º ano da Seihou Middle School, uma escola militar focada em pesquisar e colecionar fenômenos sobrenaturais para usá-los como armas. Sobre as ordens de seus superiores, Kodou viajam pelo país investigando diferentes eventos, onde um deles acaba o levando até um garoto que acredita que seus poderes são uma doença. Através dos ensinamentos de Kodou, o garoto aprende a usar seus poderes e se torna um de seus subordinados, o ajudando a enfrentar vários fenômenos sobrenaturais perigosos em suas missões.",
+                    "genre": "Ação, Aventura, Sobrenatural",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]
