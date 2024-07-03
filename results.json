@@ -1,0 +1,162 @@
+[
+    {
+        "pkg": "pt.anidong",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.anidong.json"
+    },
+    {
+        "pkg": "pt.animefire",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animefire.json"
+    },
+    {
+        "pkg": "pt.animeplayer",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animeplayer.json"
+    },
+    {
+        "pkg": "pt.animeq",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animeq.json"
+    },
+    {
+        "pkg": "pt.animescx",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animescx.json"
+    },
+    {
+        "pkg": "pt.animesdigital",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animesdigital.json"
+    },
+    {
+        "pkg": "pt.animesgames",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animesgames.json"
+    },
+    {
+        "pkg": "pt.animesgratis",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animesgratis.json"
+    },
+    {
+        "pkg": "pt.animesroll",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animesroll.json"
+    },
+    {
+        "pkg": "pt.animeszone",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.animeszone.json"
+    },
+    {
+        "pkg": "pt.anitube",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.anitube.json"
+    },
+    {
+        "pkg": "pt.betteranime",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.betteranime.json"
+    },
+    {
+        "pkg": "pt.donghuanosekai",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.donghuanosekai.json"
+    },
+    {
+        "pkg": "pt.doramogo",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.doramogo.json"
+    },
+    {
+        "pkg": "pt.flixei",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.flixei.json"
+    },
+    {
+        "pkg": "pt.goanimes",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.goanimes.json"
+    },
+    {
+        "pkg": "pt.hentaistube",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.hentaistube.json"
+    },
+    {
+        "pkg": "pt.hinatasoul",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.hinatasoul.json"
+    },
+    {
+        "pkg": "pt.megaflix",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.megaflix.json"
+    },
+    {
+        "pkg": "pt.muitohentai",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.muitohentai.json"
+    },
+    {
+        "pkg": "pt.pifansubs",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.pifansubs.json"
+    },
+    {
+        "pkg": "pt.pobreflix",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.pobreflix.json"
+    },
+    {
+        "pkg": "pt.rinecloud",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.rinecloud.json"
+    },
+    {
+        "pkg": "pt.vizer",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-pt.vizer.json"
+    },
+    {
+        "pkg": "tr.animeler",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.animeler.json"
+    },
+    {
+        "pkg": "tr.anizm",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.anizm.json"
+    },
+    {
+        "pkg": "tr.asyaanimeleri",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.asyaanimeleri.json"
+    },
+    {
+        "pkg": "tr.hdfilmcehennemi",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.hdfilmcehennemi.json"
+    },
+    {
+        "pkg": "tr.hentaizm",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.hentaizm.json"
+    },
+    {
+        "pkg": "tr.tranimeci",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.tranimeci.json"
+    },
+    {
+        "pkg": "tr.tranimeizle",
+        "passed": false,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.tranimeizle.json"
+    },
+    {
+        "pkg": "tr.turkanime",
+        "passed": true,
+        "log": "https://raw.githubusercontent.com/Claudemirovsky/cursed-aet/results/results/results-tr.turkanime.json"
+    }
+]

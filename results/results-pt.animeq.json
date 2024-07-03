@@ -1,0 +1,267 @@
+[
+    {
+        "name": "AnimeQ (PT-BR)",
+        "results": {
+            "popular": {
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
+            },
+            "latest": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/173256/",
+                                "title": "Dragon Ball Daima Episódio 02",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rLHW2wE4SZDfp7vXUxXRKj2zEY6.jpg"
+                            },
+                            {
+                                "url": "/172570/",
+                                "title": "One Piece Episódio 1122",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/One-Piece-1122-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/172556/",
+                                "title": "Bleach: Sennen Kessen-hen – Soukoku-tan Episódio 02",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Bleach-Sennen-Kessen-hen-–-Soukoku-tan-Episodio-02.jpg"
+                            },
+                            {
+                                "url": "/172549/",
+                                "title": "Boku no Hero Academia 7 Episódio 21 – Final",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Boku-no-Hero-Academia-7-Episodio-21-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/173254/",
+                                "title": "2.5-jigen no Ririsa Dublado Episódio 16",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/2.5-jigen-no-Ririsa-Dublado-Episodios.jpg"
+                            },
+                            {
+                                "url": "/173251/",
+                                "title": "2.5-jigen no Ririsa Episódio 16",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/2.5-jigen-no-Ririsa-Episodio.jpg"
+                            },
+                            {
+                                "url": "/173235/",
+                                "title": "Ji Yao Lu: Qicheng Pian Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ji-Yao-Lu-Qicheng-Pian-Episodio.jpg"
+                            },
+                            {
+                                "url": "/173233/",
+                                "title": "Ji Yao Lu: Qicheng Pian Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ji-Yao-Lu-Qicheng-Pian-Episodio.jpg"
+                            },
+                            {
+                                "url": "/173228/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan – Kyoto Douran Episódio 03",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9JKGfPeFQickQK747k4Vg6zzMTX.jpg"
+                            },
+                            {
+                                "url": "/173218/",
+                                "title": "Trillion Game Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Trillion-Game-Episodio.jpg"
+                            },
+                            {
+                                "url": "/173210/",
+                                "title": "Sayounara Ryuusei Konnichiwa Jinsei Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Sayounara-Ryuusei-Konnichiwa-Jinsei-Episodio-01.jpg"
+                            },
+                            {
+                                "url": "/173202/",
+                                "title": "Mecha-ude Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Mecha-ude-Episodios.jpg"
+                            },
+                            {
+                                "url": "/173198/",
+                                "title": "DanMachi 5 Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/DanMachi-5-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173194/",
+                                "title": "Dandadan Dublado Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/DanDanDan-Dublado-jpg.webp"
+                            },
+                            {
+                                "url": "/173189/",
+                                "title": "Dandadan Episódio 03",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ryda3NlIWKezCmEL2AKNbmPeHhY.jpg"
+                            },
+                            {
+                                "url": "/173183/",
+                                "title": "Ao no Hako Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Ao-no-Hako-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173175/",
+                                "title": "Kekkon suru tte Hontou desu ka Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kekkon-suru-tte-Hontou-desu-ka-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/173171/",
+                                "title": "Hitoribocchi no Isekai Kouryaku Episódio 04",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hitoribocchi-no-Isekai-Kouryaku-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173167/",
+                                "title": "NegaPosi Angler Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/NegaPosi-Angler-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173161/",
+                                "title": "Kinoko Inu Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kinoko-Inu-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173151/",
+                                "title": "Bakuage Sentai Boonboomger Episódio 33",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Bakuage-Sentai-Boonboomger-Episodios.jpg"
+                            },
+                            {
+                                "url": "/173143/",
+                                "title": "Kamen Rider Gavv Episódio 07",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kamen-Rider-Gavv-Episodios-jpg.webp"
+                            },
+                            {
+                                "url": "/173138/",
+                                "title": "KamiErabi GOD.app 2 Episódio 03",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Kamierabi-2-Episodios-jpg.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/172293/",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal –  Todos os Episodios",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-Semifinal-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/170104/",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup –  Todos os Episodios",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Shin-Tennis-no-Oujisama-U-17-World-Cup-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/142549/",
+                                "title": "The World of the Married",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dorama-The-World-of-the-Married-Completo.jpg"
+                            },
+                            {
+                                "url": "/123374/",
+                                "title": "Dr. Stone: New World Part 2 Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/98979/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr-Stone-New-World-Part-2-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/87563/",
+                                "title": "Dr. Stone: New World Dublado",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dr.-Stone-New-World-Dublado.jpg"
+                            },
+                            {
+                                "url": "/86837/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Dai-Star-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/86664/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Terceira-temporada-de-Dr.-Stone-AnimeQ.jpg"
+                            },
+                            {
+                                "url": "/66230/",
+                                "title": "World Trigger 3",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World-Trigger-3a-Temporada.jpg"
+                            },
+                            {
+                                "url": "/52418/",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/World_Witches_Hasshin_Shimasu_promo_poster.jpg"
+                            },
+                            {
+                                "url": "/51536/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg"
+                            },
+                            {
+                                "url": "/51363/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeq.blog/wp-content/uploads/Hetalia-World-Stars.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/170355/",
+                    "title": "Dragon Ball Daima",
+                    "description": "Nova série Dragon Ball .Devido a uma conspiração, Goku e seus amigos são transformados em pequenos. Para consertar as coisas, eles partirão para um novo mundo! É uma grande aventura com ação intensa em um mundo desconhecido e misterioso..",
+                    "genre": "animes, assistir online, baixar animes, completo, download, episodios HD, animeq",
+                    "thumbnail_url": "https://animeq.blog/wp-content/uploads/Dragon-Ball-Daima-Todos-os-Episodios-jpg.webp",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/173256/",
+                        "name": "02",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/172521/",
+                        "name": "01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: ",
+                        "quality": "720p",
+                        "videoUrl": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player14').setup({\r\n\t\t\t\t\ttitle: "
+                    },
+                    {
+                        "url": "https://rr5---sn-a5m7lnld.googlevideo.com/videoplayback?expire=1729304765&ei=PagSZ7zTHOit3_QP_43L4Q8&ip=13.83.123.145&id=246a58427d444837&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729275965,&mh=jM&mm=31&mn=sn-a5m7lnld&ms=au&mv=u&mvi=5&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.178&lmt=1729272118079412&mt=1729275089&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMJ_hNJauBACeDq3ZEPddgQm2MM3du9-e7LH8IH7o0qcAiEApN-Y8m5lnZIwIuR3npF4WDPjK7IlvVrZht_nAtluEMc%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIgdp0Dy_A6-w5wkTIozpBNGChY9blehRFcHKHF6fyC1fYCIQCHqC-pZFLbJXCRH-UG-T3zbG5VU-VOxW4FF2G9s6jl1w%3D%3D",
+                        "quality": "Blogger - 720p",
+                        "videoUrl": "https://rr5---sn-a5m7lnld.googlevideo.com/videoplayback?expire=1729304765&ei=PagSZ7zTHOit3_QP_43L4Q8&ip=13.83.123.145&id=246a58427d444837&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729275965,&mh=jM&mm=31&mn=sn-a5m7lnld&ms=au&mv=u&mvi=5&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.178&lmt=1729272118079412&mt=1729275089&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRgIhAMJ_hNJauBACeDq3ZEPddgQm2MM3du9-e7LH8IH7o0qcAiEApN-Y8m5lnZIwIuR3npF4WDPjK7IlvVrZht_nAtluEMc%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIgdp0Dy_A6-w5wkTIozpBNGChY9blehRFcHKHF6fyC1fYCIQCHqC-pZFLbJXCRH-UG-T3zbG5VU-VOxW4FF2G9s6jl1w%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeq.blog",
+                            "Origin": "https://animeq.blog"
+                        }
+                    },
+                    {
+                        "url": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player17').setup({\r\n\t\t\t\t\ttitle: ",
+                        "quality": "1080p",
+                        "videoUrl": "\r\n\t\t'use strict';\r\n\t\t(function($) {\r\n\t\t\t$(document).ready(function() {\r\n\r\n\t\t\t\tvar playerInstance = jwplayer('player17').setup({\r\n\t\t\t\t\ttitle: "
+                    },
+                    {
+                        "url": "https://rr5---sn-a5m7lnld.googlevideo.com/videoplayback?expire=1729304765&ei=PagSZ7zTHOit3_QP_43L4Q8&ip=13.83.123.145&id=246a58427d444837&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729275965,&mh=jM&mm=31&mn=sn-a5m7lnld&ms=au&mv=u&mvi=5&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.178&lmt=1729272018810647&mt=1729275089&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAJr7Q8g-SV7jYerY5HX526cZMKh00KV2CT-BJOx5Rsm0AiAn15hp0FUCnamtj_MMv2aJx5lnXkPxECQ9dvT1Dg7m4w%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPvBQh1MDKJNPc8QOL9dSRnULwM8KtuGj48QHk5bvBsXAiBURHF9jHXu27KQM03IoE1AT9Y1qlr4OmoQ9AvBafTfUg%3D%3D",
+                        "quality": "Blogger - 360p",
+                        "videoUrl": "https://rr5---sn-a5m7lnld.googlevideo.com/videoplayback?expire=1729304765&ei=PagSZ7zTHOit3_QP_43L4Q8&ip=13.83.123.145&id=246a58427d444837&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&met=1729275965,&mh=jM&mm=31&mn=sn-a5m7lnld&ms=au&mv=u&mvi=5&pl=24&rms=au,au&susc=bl&eaua=zdx5kQeCiww&mime=video/mp4&vprv=1&rqh=1&dur=1420.178&lmt=1729272018810647&mt=1729275089&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,rqh,dur,lmt&sig=AJfQdSswRQIhAJr7Q8g-SV7jYerY5HX526cZMKh00KV2CT-BJOx5Rsm0AiAn15hp0FUCnamtj_MMv2aJx5lnXkPxECQ9dvT1Dg7m4w%3D%3D&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=ACJ0pHgwRQIhAPvBQh1MDKJNPc8QOL9dSRnULwM8KtuGj48QHk5bvBsXAiBURHF9jHXu27KQM03IoE1AT9Y1qlr4OmoQ9AvBafTfUg%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://animeq.blog",
+                            "Origin": "https://animeq.blog"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]
